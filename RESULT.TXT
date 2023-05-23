@@ -1,0 +1,8133 @@
+  
+
+///////////////////////////////
+  
+2021/9/7 (Tuesday) 10:34:21  
+  
+INVALID 
+ 
+Shield Temperature = 29.29 C
+RTC Temperature = 29.25 C
+Outer Temperature = 43 C
+  
+Average Temperature = 33.85C
+Status: 40+
+ 
+Humidity    = 82.13 %
+Pressure    = 100.90 kPa
+Illuminance = 643.23 lx
+Height = 7.85 m
+UV Index = 1.52
+  
+///////////////////////////////
+  
+2021/9/7 (Tuesday) 10:34:42  
+  
+INVALID 
+ 
+Shield Temperature = 29.67 C
+RTC Temperature = 29.50 C
+Outer Temperature = 39 C
+  
+Average Temperature = 32.72C
+Status: 30+
+ 
+Humidity    = 80.56 %
+Pressure    = 100.90 kPa
+Illuminance = 641.29 lx
+Height = 7.86 m
+UV Index = 1.58
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:11:21  
+  
+INVALID 
+ 
+Shield Temperature = 35.23 C
+RTC Temperature = 34.25 C
+Outer Temperature = 33 C
+  
+Average Temperature = 34.16C
+Status: 30+
+ 
+Humidity    = 48.15 %
+Pressure    = 100.50 kPa
+Illuminance = 642.58 lx
+Height = 60.48 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:11:27  
+  
+INVALID 
+ 
+Shield Temperature = 35.32 C
+RTC Temperature = 34.25 C
+Outer Temperature = 34 C
+  
+Average Temperature = 34.52C
+Status: 30+
+ 
+Humidity    = 47.80 %
+Pressure    = 100.50 kPa
+Illuminance = 641.94 lx
+Height = 60.84 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:11:33  
+  
+INVALID 
+ 
+Shield Temperature = 35.32 C
+RTC Temperature = 34.25 C
+Outer Temperature = 27 C
+  
+Average Temperature = 32.19C
+Status: 20+
+ 
+Humidity    = 47.82 %
+Pressure    = 100.50 kPa
+Illuminance = 641.94 lx
+Height = 60.30 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:11:39  
+  
+INVALID 
+ 
+Shield Temperature = 35.33 C
+RTC Temperature = 34.25 C
+Outer Temperature = 29 C
+  
+Average Temperature = 32.86C
+Status: 20+
+ 
+Humidity    = 48.02 %
+Pressure    = 100.50 kPa
+Illuminance = 642.58 lx
+Height = 60.64 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:11:45  
+  
+INVALID 
+ 
+Shield Temperature = 35.37 C
+RTC Temperature = 34.25 C
+Outer Temperature = 31 C
+  
+Average Temperature = 33.54C
+Status: 30+
+ 
+Humidity    = 48.05 %
+Pressure    = 100.50 kPa
+Illuminance = 641.94 lx
+Height = 60.66 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:11:51  
+  
+INVALID 
+ 
+Shield Temperature = 35.37 C
+RTC Temperature = 34.50 C
+Outer Temperature = 33 C
+  
+Average Temperature = 34.29C
+Status: 30+
+ 
+Humidity    = 48.10 %
+Pressure    = 100.50 kPa
+Illuminance = 641.29 lx
+Height = 60.54 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:16:28  
+  
+INVALID 
+ 
+Shield Temperature = 35.24 C
+RTC Temperature = 34.75 C
+Outer Temperature = 33 C
+  
+Average Temperature = 34.33C
+Status: 30+
+ 
+Humidity    = 49.85 %
+Pressure    = 100.49 kPa
+Illuminance = 640.65 lx
+Height = 61.03 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:16:34  
+  
+INVALID 
+ 
+Shield Temperature = 35.55 C
+RTC Temperature = 34.75 C
+Outer Temperature = 35 C
+  
+Average Temperature = 35.10C
+Status: 30+
+ 
+Humidity    = 50.24 %
+Pressure    = 100.49 kPa
+Illuminance = 640.65 lx
+Height = 61.07 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:16:40  
+  
+INVALID 
+ 
+Shield Temperature = 35.62 C
+RTC Temperature = 34.75 C
+Outer Temperature = 32 C
+  
+Average Temperature = 34.12C
+Status: 30+
+ 
+Humidity    = 49.70 %
+Pressure    = 100.49 kPa
+Illuminance = 641.29 lx
+Height = 61.12 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:18:11  
+  
+INVALID 
+ 
+Shield Temperature = 35.62 C
+RTC Temperature = 35.25 C
+Outer Temperature = 35 C
+  
+Average Temperature = 35.29C
+Status: 30+
+ 
+Humidity    = 46.07 %
+Pressure    = 100.49 kPa
+Illuminance = 641.94 lx
+Height = 61.08 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:18:23  
+  
+INVALID 
+ 
+Shield Temperature = 35.57 C
+RTC Temperature = 35.25 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.61C
+Status: 60+
+ 
+Humidity    = 45.55 %
+Pressure    = 100.49 kPa
+Illuminance = 642.58 lx
+Height = 61.36 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:18:30  
+  
+INVALID 
+ 
+Shield Temperature = 35.55 C
+RTC Temperature = 35.25 C
+Outer Temperature = 60 C
+  
+Average Temperature = 43.60C
+Status: 50+
+ 
+Humidity    = 45.79 %
+Pressure    = 100.49 kPa
+Illuminance = 641.94 lx
+Height = 61.21 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:18:36  
+  
+INVALID 
+ 
+Shield Temperature = 35.50 C
+RTC Temperature = 35.25 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.58C
+Status: 60+
+ 
+Humidity    = 45.52 %
+Pressure    = 100.49 kPa
+Illuminance = 641.94 lx
+Height = 61.26 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:19:45  
+  
+INVALID 
+ 
+Shield Temperature = 35.57 C
+RTC Temperature = 35.25 C
+Outer Temperature = 58 C
+  
+Average Temperature = 42.94C
+Status: 50+
+ 
+Humidity    = 46.74 %
+Pressure    = 100.49 kPa
+Illuminance = 642.58 lx
+Height = 61.48 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:19:57  
+  
+INVALID 
+ 
+Shield Temperature = 35.66 C
+RTC Temperature = 35.25 C
+Outer Temperature = 60 C
+  
+Average Temperature = 43.64C
+Status: 50+
+ 
+Humidity    = 46.89 %
+Pressure    = 100.49 kPa
+Illuminance = 641.94 lx
+Height = 61.41 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:20:3  
+  
+INVALID 
+ 
+Shield Temperature = 35.68 C
+RTC Temperature = 35.25 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.64C
+Status: 60+
+ 
+Humidity    = 46.88 %
+Pressure    = 100.49 kPa
+Illuminance = 642.58 lx
+Height = 61.38 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:20:9  
+  
+INVALID 
+ 
+Shield Temperature = 35.68 C
+RTC Temperature = 35.25 C
+Outer Temperature = 60 C
+  
+Average Temperature = 43.64C
+Status: 50+
+ 
+Humidity    = 46.32 %
+Pressure    = 100.49 kPa
+Illuminance = 643.23 lx
+Height = 61.34 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:20:16  
+  
+INVALID 
+ 
+Shield Temperature = 35.73 C
+RTC Temperature = 35.25 C
+Outer Temperature = 64 C
+  
+Average Temperature = 44.99C
+Status: 60+
+ 
+Humidity    = 46.65 %
+Pressure    = 100.49 kPa
+Illuminance = 643.23 lx
+Height = 61.20 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:20:22  
+  
+INVALID 
+ 
+Shield Temperature = 35.66 C
+RTC Temperature = 35.25 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.64C
+Status: 60+
+ 
+Humidity    = 46.28 %
+Pressure    = 100.49 kPa
+Illuminance = 645.16 lx
+Height = 61.47 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:20:28  
+  
+INVALID 
+ 
+Shield Temperature = 35.75 C
+RTC Temperature = 35.25 C
+Outer Temperature = 71 C
+  
+Average Temperature = 47.33C
+Status: 70+
+ 
+Humidity    = 46.66 %
+Pressure    = 100.49 kPa
+Illuminance = 643.87 lx
+Height = 61.24 m
+UV Index = 0.13
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:20:34  
+  
+INVALID 
+ 
+Shield Temperature = 35.77 C
+RTC Temperature = 35.25 C
+Outer Temperature = 62 C
+  
+Average Temperature = 44.34C
+Status: 60+
+ 
+Humidity    = 46.94 %
+Pressure    = 100.49 kPa
+Illuminance = 643.87 lx
+Height = 61.42 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:20:40  
+  
+INVALID 
+ 
+Shield Temperature = 35.75 C
+RTC Temperature = 35.25 C
+Outer Temperature = 67 C
+  
+Average Temperature = 46.00C
+Status: 60+
+ 
+Humidity    = 46.77 %
+Pressure    = 100.49 kPa
+Illuminance = 643.87 lx
+Height = 61.41 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:20:46  
+  
+INVALID 
+ 
+Shield Temperature = 35.79 C
+RTC Temperature = 35.25 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.68C
+Status: 60+
+ 
+Humidity    = 46.61 %
+Pressure    = 100.49 kPa
+Illuminance = 643.87 lx
+Height = 61.29 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:20:52  
+  
+INVALID 
+ 
+Shield Temperature = 35.84 C
+RTC Temperature = 35.25 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.70C
+Status: 60+
+ 
+Humidity    = 46.71 %
+Pressure    = 100.49 kPa
+Illuminance = 644.52 lx
+Height = 61.60 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:20:58  
+  
+INVALID 
+ 
+Shield Temperature = 35.84 C
+RTC Temperature = 35.25 C
+Outer Temperature = 70 C
+  
+Average Temperature = 47.03C
+Status: 60+
+ 
+Humidity    = 46.04 %
+Pressure    = 100.49 kPa
+Illuminance = 644.52 lx
+Height = 61.52 m
+UV Index = 0.13
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:21:5  
+  
+INVALID 
+ 
+Shield Temperature = 35.84 C
+RTC Temperature = 35.25 C
+Outer Temperature = 61 C
+  
+Average Temperature = 44.03C
+Status: 60+
+ 
+Humidity    = 45.64 %
+Pressure    = 100.49 kPa
+Illuminance = 644.52 lx
+Height = 61.71 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:21:11  
+  
+INVALID 
+ 
+Shield Temperature = 35.86 C
+RTC Temperature = 35.25 C
+Outer Temperature = 44 C
+  
+Average Temperature = 38.37C
+Status: 40+
+ 
+Humidity    = 45.12 %
+Pressure    = 100.49 kPa
+Illuminance = 644.52 lx
+Height = 61.66 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:21:17  
+  
+INVALID 
+ 
+Shield Temperature = 35.84 C
+RTC Temperature = 35.25 C
+Outer Temperature = 68 C
+  
+Average Temperature = 46.36C
+Status: 60+
+ 
+Humidity    = 44.92 %
+Pressure    = 100.49 kPa
+Illuminance = 645.16 lx
+Height = 61.61 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:21:23  
+  
+INVALID 
+ 
+Shield Temperature = 35.84 C
+RTC Temperature = 35.50 C
+Outer Temperature = 67 C
+  
+Average Temperature = 46.11C
+Status: 60+
+ 
+Humidity    = 44.62 %
+Pressure    = 100.49 kPa
+Illuminance = 644.52 lx
+Height = 61.66 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:21:29  
+  
+INVALID 
+ 
+Shield Temperature = 35.86 C
+RTC Temperature = 35.50 C
+Outer Temperature = 68 C
+  
+Average Temperature = 46.45C
+Status: 60+
+ 
+Humidity    = 44.47 %
+Pressure    = 100.48 kPa
+Illuminance = 645.16 lx
+Height = 61.78 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:21:35  
+  
+INVALID 
+ 
+Shield Temperature = 35.82 C
+RTC Temperature = 35.50 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.77C
+Status: 60+
+ 
+Humidity    = 44.64 %
+Pressure    = 100.49 kPa
+Illuminance = 643.87 lx
+Height = 61.49 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:21:41  
+  
+INVALID 
+ 
+Shield Temperature = 35.82 C
+RTC Temperature = 35.50 C
+Outer Temperature = 67 C
+  
+Average Temperature = 46.11C
+Status: 60+
+ 
+Humidity    = 44.97 %
+Pressure    = 100.49 kPa
+Illuminance = 644.52 lx
+Height = 61.68 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:21:47  
+  
+INVALID 
+ 
+Shield Temperature = 35.84 C
+RTC Temperature = 35.50 C
+Outer Temperature = 65 C
+  
+Average Temperature = 45.45C
+Status: 60+
+ 
+Humidity    = 45.18 %
+Pressure    = 100.49 kPa
+Illuminance = 643.87 lx
+Height = 61.60 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:21:53  
+  
+INVALID 
+ 
+Shield Temperature = 35.88 C
+RTC Temperature = 35.50 C
+Outer Temperature = 68 C
+  
+Average Temperature = 46.46C
+Status: 60+
+ 
+Humidity    = 45.00 %
+Pressure    = 100.49 kPa
+Illuminance = 644.52 lx
+Height = 61.44 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:21:59  
+  
+INVALID 
+ 
+Shield Temperature = 35.86 C
+RTC Temperature = 35.50 C
+Outer Temperature = 64 C
+  
+Average Temperature = 45.12C
+Status: 60+
+ 
+Humidity    = 44.45 %
+Pressure    = 100.49 kPa
+Illuminance = 645.81 lx
+Height = 61.27 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:22:6  
+  
+INVALID 
+ 
+Shield Temperature = 35.79 C
+RTC Temperature = 35.50 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.76C
+Status: 60+
+ 
+Humidity    = 44.31 %
+Pressure    = 100.48 kPa
+Illuminance = 645.16 lx
+Height = 61.90 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:22:12  
+  
+INVALID 
+ 
+Shield Temperature = 35.79 C
+RTC Temperature = 35.50 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.76C
+Status: 60+
+ 
+Humidity    = 44.35 %
+Pressure    = 100.48 kPa
+Illuminance = 645.16 lx
+Height = 61.79 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:22:18  
+  
+INVALID 
+ 
+Shield Temperature = 35.90 C
+RTC Temperature = 35.50 C
+Outer Temperature = 64 C
+  
+Average Temperature = 45.13C
+Status: 60+
+ 
+Humidity    = 44.51 %
+Pressure    = 100.49 kPa
+Illuminance = 644.52 lx
+Height = 61.59 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:22:24  
+  
+INVALID 
+ 
+Shield Temperature = 35.82 C
+RTC Temperature = 35.50 C
+Outer Temperature = 42 C
+  
+Average Temperature = 37.77C
+Status: 40+
+ 
+Humidity    = 44.77 %
+Pressure    = 100.48 kPa
+Illuminance = 644.52 lx
+Height = 61.77 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:34:50  
+  
+INVALID 
+ 
+Shield Temperature = 35.04 C
+RTC Temperature = 35.25 C
+Outer Temperature = 78 C
+  
+Average Temperature = 49.43C
+Status: 70+
+ 
+Humidity    = 48.47 %
+Pressure    = 100.48 kPa
+Illuminance = 638.71 lx
+Height = 62.29 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:39:47  
+  
+INVALID 
+ 
+Shield Temperature = 35.04 C
+RTC Temperature = 35.25 C
+Outer Temperature = 72 C
+  
+Average Temperature = 47.43C
+Status: 70+
+ 
+Humidity    = 46.65 %
+Pressure    = 100.47 kPa
+Illuminance = 636.77 lx
+Height = 62.49 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:44:6  
+  
+INVALID 
+ 
+Shield Temperature = 35.21 C
+RTC Temperature = 35.00 C
+Outer Temperature = 64 C
+  
+Average Temperature = 44.74C
+Status: 60+
+ 
+Humidity    = 49.03 %
+Pressure    = 100.47 kPa
+Illuminance = 638.71 lx
+Height = 62.61 m
+UV Index = 0.32
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:52:53  
+  
+INVALID 
+ 
+Shield Temperature = 34.41 C
+RTC Temperature = 34.75 C
+Outer Temperature = 128 C
+  
+Average Temperature = 65.72C
+Status: 50+
+ 
+Humidity    = 48.87 %
+Pressure    = 100.47 kPa
+Illuminance = 536.13 lx
+Height = 62.68 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:52:56  
+  
+INVALID 
+ 
+Shield Temperature = 34.43 C
+RTC Temperature = 34.75 C
+Outer Temperature = 60 C
+  
+Average Temperature = 43.06C
+Status: 50+
+ 
+Humidity    = 48.82 %
+Pressure    = 100.47 kPa
+Illuminance = 560.00 lx
+Height = 62.90 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:52:58  
+  
+INVALID 
+ 
+Shield Temperature = 34.45 C
+RTC Temperature = 34.75 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.07C
+Status: 60+
+ 
+Humidity    = 48.74 %
+Pressure    = 100.47 kPa
+Illuminance = 636.13 lx
+Height = 63.10 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:1  
+  
+INVALID 
+ 
+Shield Temperature = 34.45 C
+RTC Temperature = 34.75 C
+Outer Temperature = 72 C
+  
+Average Temperature = 47.07C
+Status: 70+
+ 
+Humidity    = 48.84 %
+Pressure    = 100.47 kPa
+Illuminance = 640.00 lx
+Height = 63.16 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:3  
+  
+INVALID 
+ 
+Shield Temperature = 34.45 C
+RTC Temperature = 34.75 C
+Outer Temperature = 76 C
+  
+Average Temperature = 48.40C
+Status: 70+
+ 
+Humidity    = 48.69 %
+Pressure    = 100.47 kPa
+Illuminance = 638.71 lx
+Height = 62.75 m
+UV Index = 0.13
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:6  
+  
+INVALID 
+ 
+Shield Temperature = 34.45 C
+RTC Temperature = 34.75 C
+Outer Temperature = 68 C
+  
+Average Temperature = 45.73C
+Status: 60+
+ 
+Humidity    = 48.66 %
+Pressure    = 100.47 kPa
+Illuminance = 640.65 lx
+Height = 63.03 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:8  
+  
+INVALID 
+ 
+Shield Temperature = 34.48 C
+RTC Temperature = 34.75 C
+Outer Temperature = 63 C
+  
+Average Temperature = 44.08C
+Status: 60+
+ 
+Humidity    = 48.84 %
+Pressure    = 100.47 kPa
+Illuminance = 635.48 lx
+Height = 62.85 m
+UV Index = 0.32
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:11  
+  
+INVALID 
+ 
+Shield Temperature = 34.43 C
+RTC Temperature = 34.75 C
+Outer Temperature = 62 C
+  
+Average Temperature = 43.73C
+Status: 60+
+ 
+Humidity    = 49.05 %
+Pressure    = 100.47 kPa
+Illuminance = 636.77 lx
+Height = 62.80 m
+UV Index = 0.13
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:13  
+  
+INVALID 
+ 
+Shield Temperature = 34.46 C
+RTC Temperature = 34.75 C
+Outer Temperature = 73 C
+  
+Average Temperature = 47.40C
+Status: 70+
+ 
+Humidity    = 48.82 %
+Pressure    = 100.47 kPa
+Illuminance = 637.42 lx
+Height = 63.00 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:16  
+  
+INVALID 
+ 
+Shield Temperature = 34.41 C
+RTC Temperature = 34.75 C
+Outer Temperature = 67 C
+  
+Average Temperature = 45.39C
+Status: 60+
+ 
+Humidity    = 48.62 %
+Pressure    = 100.47 kPa
+Illuminance = 640.00 lx
+Height = 63.05 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:18  
+  
+INVALID 
+ 
+Shield Temperature = 34.39 C
+RTC Temperature = 34.75 C
+Outer Temperature = 65 C
+  
+Average Temperature = 44.71C
+Status: 60+
+ 
+Humidity    = 48.71 %
+Pressure    = 100.47 kPa
+Illuminance = 641.94 lx
+Height = 62.94 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:21  
+  
+INVALID 
+ 
+Shield Temperature = 34.45 C
+RTC Temperature = 34.75 C
+Outer Temperature = 57 C
+  
+Average Temperature = 42.07C
+Status: 50+
+ 
+Humidity    = 48.13 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 63.20 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:23  
+  
+INVALID 
+ 
+Shield Temperature = 34.46 C
+RTC Temperature = 34.75 C
+Outer Temperature = 63 C
+  
+Average Temperature = 44.07C
+Status: 60+
+ 
+Humidity    = 48.45 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 62.82 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:26  
+  
+INVALID 
+ 
+Shield Temperature = 34.45 C
+RTC Temperature = 34.75 C
+Outer Temperature = 75 C
+  
+Average Temperature = 48.07C
+Status: 70+
+ 
+Humidity    = 48.22 %
+Pressure    = 100.47 kPa
+Illuminance = 641.94 lx
+Height = 62.79 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:28  
+  
+INVALID 
+ 
+Shield Temperature = 34.45 C
+RTC Temperature = 34.75 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.73C
+Status: 70+
+ 
+Humidity    = 48.26 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 63.18 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:31  
+  
+INVALID 
+ 
+Shield Temperature = 34.46 C
+RTC Temperature = 34.75 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.07C
+Status: 60+
+ 
+Humidity    = 48.50 %
+Pressure    = 100.47 kPa
+Illuminance = 641.94 lx
+Height = 63.12 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:33  
+  
+INVALID 
+ 
+Shield Temperature = 34.43 C
+RTC Temperature = 34.75 C
+Outer Temperature = 49 C
+  
+Average Temperature = 39.39C
+Status: 40+
+ 
+Humidity    = 48.35 %
+Pressure    = 100.47 kPa
+Illuminance = 638.71 lx
+Height = 62.90 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:36  
+  
+INVALID 
+ 
+Shield Temperature = 34.41 C
+RTC Temperature = 34.75 C
+Outer Temperature = 58 C
+  
+Average Temperature = 42.39C
+Status: 50+
+ 
+Humidity    = 48.41 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 63.01 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:38  
+  
+INVALID 
+ 
+Shield Temperature = 34.39 C
+RTC Temperature = 34.75 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.05C
+Status: 60+
+ 
+Humidity    = 48.29 %
+Pressure    = 100.47 kPa
+Illuminance = 636.77 lx
+Height = 63.11 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:41  
+  
+INVALID 
+ 
+Shield Temperature = 34.41 C
+RTC Temperature = 34.75 C
+Outer Temperature = 75 C
+  
+Average Temperature = 48.05C
+Status: 70+
+ 
+Humidity    = 48.21 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 62.79 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:43  
+  
+INVALID 
+ 
+Shield Temperature = 34.41 C
+RTC Temperature = 34.75 C
+Outer Temperature = 68 C
+  
+Average Temperature = 45.72C
+Status: 60+
+ 
+Humidity    = 48.35 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 63.09 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:46  
+  
+INVALID 
+ 
+Shield Temperature = 34.41 C
+RTC Temperature = 34.75 C
+Outer Temperature = 75 C
+  
+Average Temperature = 48.05C
+Status: 70+
+ 
+Humidity    = 48.40 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 63.12 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:48  
+  
+INVALID 
+ 
+Shield Temperature = 34.43 C
+RTC Temperature = 34.75 C
+Outer Temperature = 58 C
+  
+Average Temperature = 42.39C
+Status: 50+
+ 
+Humidity    = 48.40 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 62.99 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:51  
+  
+INVALID 
+ 
+Shield Temperature = 34.43 C
+RTC Temperature = 34.75 C
+Outer Temperature = 64 C
+  
+Average Temperature = 44.39C
+Status: 60+
+ 
+Humidity    = 48.17 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 63.12 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:53  
+  
+INVALID 
+ 
+Shield Temperature = 34.43 C
+RTC Temperature = 34.75 C
+Outer Temperature = 59 C
+  
+Average Temperature = 42.73C
+Status: 50+
+ 
+Humidity    = 48.22 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 62.92 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:56  
+  
+INVALID 
+ 
+Shield Temperature = 34.48 C
+RTC Temperature = 34.75 C
+Outer Temperature = 62 C
+  
+Average Temperature = 43.74C
+Status: 60+
+ 
+Humidity    = 48.39 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 62.95 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:53:58  
+  
+INVALID 
+ 
+Shield Temperature = 34.45 C
+RTC Temperature = 34.75 C
+Outer Temperature = 60 C
+  
+Average Temperature = 43.07C
+Status: 50+
+ 
+Humidity    = 48.38 %
+Pressure    = 100.47 kPa
+Illuminance = 641.94 lx
+Height = 63.00 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:1  
+  
+INVALID 
+ 
+Shield Temperature = 34.50 C
+RTC Temperature = 34.75 C
+Outer Temperature = 75 C
+  
+Average Temperature = 48.08C
+Status: 70+
+ 
+Humidity    = 48.58 %
+Pressure    = 100.47 kPa
+Illuminance = 641.94 lx
+Height = 62.70 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:3  
+  
+INVALID 
+ 
+Shield Temperature = 34.48 C
+RTC Temperature = 34.75 C
+Outer Temperature = 75 C
+  
+Average Temperature = 48.08C
+Status: 70+
+ 
+Humidity    = 48.96 %
+Pressure    = 100.47 kPa
+Illuminance = 641.94 lx
+Height = 63.08 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:6  
+  
+INVALID 
+ 
+Shield Temperature = 34.45 C
+RTC Temperature = 34.75 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.73C
+Status: 70+
+ 
+Humidity    = 48.56 %
+Pressure    = 100.47 kPa
+Illuminance = 641.94 lx
+Height = 62.92 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:8  
+  
+INVALID 
+ 
+Shield Temperature = 34.48 C
+RTC Temperature = 34.75 C
+Outer Temperature = 58 C
+  
+Average Temperature = 42.41C
+Status: 50+
+ 
+Humidity    = 48.27 %
+Pressure    = 100.47 kPa
+Illuminance = 641.94 lx
+Height = 62.66 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:11  
+  
+INVALID 
+ 
+Shield Temperature = 34.48 C
+RTC Temperature = 34.75 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.08C
+Status: 60+
+ 
+Humidity    = 48.34 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 62.77 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:13  
+  
+INVALID 
+ 
+Shield Temperature = 34.48 C
+RTC Temperature = 34.75 C
+Outer Temperature = 68 C
+  
+Average Temperature = 45.74C
+Status: 60+
+ 
+Humidity    = 48.17 %
+Pressure    = 100.47 kPa
+Illuminance = 640.65 lx
+Height = 62.90 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:16  
+  
+INVALID 
+ 
+Shield Temperature = 34.46 C
+RTC Temperature = 34.75 C
+Outer Temperature = 59 C
+  
+Average Temperature = 42.74C
+Status: 50+
+ 
+Humidity    = 48.08 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 62.99 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:18  
+  
+INVALID 
+ 
+Shield Temperature = 34.48 C
+RTC Temperature = 34.75 C
+Outer Temperature = 63 C
+  
+Average Temperature = 44.08C
+Status: 60+
+ 
+Humidity    = 48.14 %
+Pressure    = 100.47 kPa
+Illuminance = 640.65 lx
+Height = 62.81 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:21  
+  
+INVALID 
+ 
+Shield Temperature = 34.48 C
+RTC Temperature = 34.75 C
+Outer Temperature = 58 C
+  
+Average Temperature = 42.41C
+Status: 50+
+ 
+Humidity    = 47.96 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 62.95 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:23  
+  
+INVALID 
+ 
+Shield Temperature = 34.45 C
+RTC Temperature = 34.75 C
+Outer Temperature = 72 C
+  
+Average Temperature = 47.07C
+Status: 70+
+ 
+Humidity    = 48.06 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 62.85 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:26  
+  
+INVALID 
+ 
+Shield Temperature = 34.50 C
+RTC Temperature = 34.75 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.75C
+Status: 70+
+ 
+Humidity    = 48.18 %
+Pressure    = 100.47 kPa
+Illuminance = 638.71 lx
+Height = 62.81 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:28  
+  
+INVALID 
+ 
+Shield Temperature = 34.48 C
+RTC Temperature = 34.75 C
+Outer Temperature = 58 C
+  
+Average Temperature = 42.41C
+Status: 50+
+ 
+Humidity    = 48.24 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 62.85 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:31  
+  
+INVALID 
+ 
+Shield Temperature = 34.48 C
+RTC Temperature = 34.75 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.08C
+Status: 60+
+ 
+Humidity    = 48.17 %
+Pressure    = 100.47 kPa
+Illuminance = 638.71 lx
+Height = 62.68 m
+UV Index = 0.65
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:33  
+  
+INVALID 
+ 
+Shield Temperature = 34.46 C
+RTC Temperature = 34.75 C
+Outer Temperature = 59 C
+  
+Average Temperature = 42.74C
+Status: 50+
+ 
+Humidity    = 48.26 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 63.20 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:36  
+  
+INVALID 
+ 
+Shield Temperature = 34.46 C
+RTC Temperature = 34.75 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.07C
+Status: 60+
+ 
+Humidity    = 48.08 %
+Pressure    = 100.47 kPa
+Illuminance = 640.65 lx
+Height = 62.88 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:38  
+  
+INVALID 
+ 
+Shield Temperature = 34.50 C
+RTC Temperature = 34.75 C
+Outer Temperature = 52 C
+  
+Average Temperature = 40.42C
+Status: 50+
+ 
+Humidity    = 48.16 %
+Pressure    = 100.46 kPa
+Illuminance = 630.97 lx
+Height = 63.28 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:41  
+  
+INVALID 
+ 
+Shield Temperature = 34.50 C
+RTC Temperature = 34.75 C
+Outer Temperature = 62 C
+  
+Average Temperature = 43.75C
+Status: 60+
+ 
+Humidity    = 48.23 %
+Pressure    = 100.47 kPa
+Illuminance = 605.16 lx
+Height = 62.96 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:43  
+  
+INVALID 
+ 
+Shield Temperature = 34.52 C
+RTC Temperature = 34.75 C
+Outer Temperature = 70 C
+  
+Average Temperature = 46.42C
+Status: 60+
+ 
+Humidity    = 48.03 %
+Pressure    = 100.47 kPa
+Illuminance = 630.97 lx
+Height = 62.78 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:46  
+  
+INVALID 
+ 
+Shield Temperature = 34.50 C
+RTC Temperature = 34.75 C
+Outer Temperature = 68 C
+  
+Average Temperature = 45.75C
+Status: 60+
+ 
+Humidity    = 48.24 %
+Pressure    = 100.47 kPa
+Illuminance = 636.13 lx
+Height = 62.88 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:48  
+  
+INVALID 
+ 
+Shield Temperature = 34.56 C
+RTC Temperature = 34.75 C
+Outer Temperature = 65 C
+  
+Average Temperature = 44.77C
+Status: 60+
+ 
+Humidity    = 48.02 %
+Pressure    = 100.47 kPa
+Illuminance = 635.48 lx
+Height = 63.23 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:51  
+  
+INVALID 
+ 
+Shield Temperature = 34.52 C
+RTC Temperature = 34.75 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.76C
+Status: 70+
+ 
+Humidity    = 47.78 %
+Pressure    = 100.47 kPa
+Illuminance = 638.06 lx
+Height = 62.83 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:53  
+  
+INVALID 
+ 
+Shield Temperature = 34.57 C
+RTC Temperature = 34.75 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.11C
+Status: 60+
+ 
+Humidity    = 47.65 %
+Pressure    = 100.47 kPa
+Illuminance = 640.00 lx
+Height = 62.98 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:56  
+  
+INVALID 
+ 
+Shield Temperature = 34.52 C
+RTC Temperature = 34.75 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.09C
+Status: 60+
+ 
+Humidity    = 47.53 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 62.94 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:54:58  
+  
+INVALID 
+ 
+Shield Temperature = 34.52 C
+RTC Temperature = 34.75 C
+Outer Temperature = 68 C
+  
+Average Temperature = 45.76C
+Status: 60+
+ 
+Humidity    = 47.51 %
+Pressure    = 100.47 kPa
+Illuminance = 641.94 lx
+Height = 63.21 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:1  
+  
+INVALID 
+ 
+Shield Temperature = 34.50 C
+RTC Temperature = 34.75 C
+Outer Temperature = 73 C
+  
+Average Temperature = 47.42C
+Status: 70+
+ 
+Humidity    = 47.45 %
+Pressure    = 100.47 kPa
+Illuminance = 638.06 lx
+Height = 62.84 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:3  
+  
+INVALID 
+ 
+Shield Temperature = 34.56 C
+RTC Temperature = 34.75 C
+Outer Temperature = 72 C
+  
+Average Temperature = 47.10C
+Status: 70+
+ 
+Humidity    = 47.66 %
+Pressure    = 100.47 kPa
+Illuminance = 638.06 lx
+Height = 63.05 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:6  
+  
+INVALID 
+ 
+Shield Temperature = 34.56 C
+RTC Temperature = 34.75 C
+Outer Temperature = 56 C
+  
+Average Temperature = 41.77C
+Status: 50+
+ 
+Humidity    = 47.99 %
+Pressure    = 100.47 kPa
+Illuminance = 638.71 lx
+Height = 63.01 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:8  
+  
+INVALID 
+ 
+Shield Temperature = 34.54 C
+RTC Temperature = 34.75 C
+Outer Temperature = 49 C
+  
+Average Temperature = 39.43C
+Status: 40+
+ 
+Humidity    = 47.84 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 62.99 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:11  
+  
+INVALID 
+ 
+Shield Temperature = 34.57 C
+RTC Temperature = 34.75 C
+Outer Temperature = 68 C
+  
+Average Temperature = 45.77C
+Status: 60+
+ 
+Humidity    = 47.82 %
+Pressure    = 100.47 kPa
+Illuminance = 641.94 lx
+Height = 63.01 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:13  
+  
+INVALID 
+ 
+Shield Temperature = 34.57 C
+RTC Temperature = 34.75 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.11C
+Status: 60+
+ 
+Humidity    = 48.18 %
+Pressure    = 100.47 kPa
+Illuminance = 641.94 lx
+Height = 63.09 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:16  
+  
+INVALID 
+ 
+Shield Temperature = 34.57 C
+RTC Temperature = 34.75 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.11C
+Status: 60+
+ 
+Humidity    = 48.49 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 62.94 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:18  
+  
+INVALID 
+ 
+Shield Temperature = 34.57 C
+RTC Temperature = 34.75 C
+Outer Temperature = 60 C
+  
+Average Temperature = 43.11C
+Status: 50+
+ 
+Humidity    = 48.45 %
+Pressure    = 100.47 kPa
+Illuminance = 641.94 lx
+Height = 62.67 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:21  
+  
+INVALID 
+ 
+Shield Temperature = 34.56 C
+RTC Temperature = 34.75 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.10C
+Status: 60+
+ 
+Humidity    = 48.40 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 63.18 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:23  
+  
+INVALID 
+ 
+Shield Temperature = 34.57 C
+RTC Temperature = 34.75 C
+Outer Temperature = 64 C
+  
+Average Temperature = 44.44C
+Status: 60+
+ 
+Humidity    = 48.26 %
+Pressure    = 100.47 kPa
+Illuminance = 640.00 lx
+Height = 62.92 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:26  
+  
+INVALID 
+ 
+Shield Temperature = 34.59 C
+RTC Temperature = 34.75 C
+Outer Temperature = 60 C
+  
+Average Temperature = 43.11C
+Status: 50+
+ 
+Humidity    = 48.50 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 62.94 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:28  
+  
+INVALID 
+ 
+Shield Temperature = 34.61 C
+RTC Temperature = 34.75 C
+Outer Temperature = 56 C
+  
+Average Temperature = 41.79C
+Status: 50+
+ 
+Humidity    = 48.11 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 62.77 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:31  
+  
+INVALID 
+ 
+Shield Temperature = 34.61 C
+RTC Temperature = 34.75 C
+Outer Temperature = 54 C
+  
+Average Temperature = 41.12C
+Status: 50+
+ 
+Humidity    = 48.08 %
+Pressure    = 100.46 kPa
+Illuminance = 640.65 lx
+Height = 63.31 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:33  
+  
+INVALID 
+ 
+Shield Temperature = 34.63 C
+RTC Temperature = 34.75 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.13C
+Status: 60+
+ 
+Humidity    = 48.44 %
+Pressure    = 100.47 kPa
+Illuminance = 641.94 lx
+Height = 63.19 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:36  
+  
+INVALID 
+ 
+Shield Temperature = 34.61 C
+RTC Temperature = 34.75 C
+Outer Temperature = 70 C
+  
+Average Temperature = 46.45C
+Status: 60+
+ 
+Humidity    = 48.10 %
+Pressure    = 100.47 kPa
+Illuminance = 641.94 lx
+Height = 63.04 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:38  
+  
+INVALID 
+ 
+Shield Temperature = 34.65 C
+RTC Temperature = 34.75 C
+Outer Temperature = 62 C
+  
+Average Temperature = 43.80C
+Status: 60+
+ 
+Humidity    = 48.07 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 63.13 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:41  
+  
+INVALID 
+ 
+Shield Temperature = 34.66 C
+RTC Temperature = 34.75 C
+Outer Temperature = 67 C
+  
+Average Temperature = 45.47C
+Status: 60+
+ 
+Humidity    = 47.80 %
+Pressure    = 100.47 kPa
+Illuminance = 641.94 lx
+Height = 63.12 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:43  
+  
+INVALID 
+ 
+Shield Temperature = 34.65 C
+RTC Temperature = 34.75 C
+Outer Temperature = 72 C
+  
+Average Temperature = 47.13C
+Status: 70+
+ 
+Humidity    = 47.86 %
+Pressure    = 100.47 kPa
+Illuminance = 642.58 lx
+Height = 62.73 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:46  
+  
+INVALID 
+ 
+Shield Temperature = 34.66 C
+RTC Temperature = 34.75 C
+Outer Temperature = 68 C
+  
+Average Temperature = 45.80C
+Status: 60+
+ 
+Humidity    = 47.76 %
+Pressure    = 100.47 kPa
+Illuminance = 642.58 lx
+Height = 63.11 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:48  
+  
+INVALID 
+ 
+Shield Temperature = 34.63 C
+RTC Temperature = 34.75 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.13C
+Status: 60+
+ 
+Humidity    = 47.28 %
+Pressure    = 100.47 kPa
+Illuminance = 642.58 lx
+Height = 62.99 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:51  
+  
+INVALID 
+ 
+Shield Temperature = 34.68 C
+RTC Temperature = 34.75 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.14C
+Status: 60+
+ 
+Humidity    = 47.76 %
+Pressure    = 100.47 kPa
+Illuminance = 642.58 lx
+Height = 62.93 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:53  
+  
+INVALID 
+ 
+Shield Temperature = 34.65 C
+RTC Temperature = 34.75 C
+Outer Temperature = 67 C
+  
+Average Temperature = 45.47C
+Status: 60+
+ 
+Humidity    = 47.67 %
+Pressure    = 100.47 kPa
+Illuminance = 643.23 lx
+Height = 63.05 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:55  
+  
+INVALID 
+ 
+Shield Temperature = 34.68 C
+RTC Temperature = 34.75 C
+Outer Temperature = 64 C
+  
+Average Temperature = 44.48C
+Status: 60+
+ 
+Humidity    = 47.80 %
+Pressure    = 100.46 kPa
+Illuminance = 643.87 lx
+Height = 63.26 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:55:58  
+  
+INVALID 
+ 
+Shield Temperature = 34.66 C
+RTC Temperature = 34.75 C
+Outer Temperature = 72 C
+  
+Average Temperature = 47.14C
+Status: 70+
+ 
+Humidity    = 47.40 %
+Pressure    = 100.47 kPa
+Illuminance = 643.87 lx
+Height = 62.87 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:0  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 65 C
+  
+Average Temperature = 44.82C
+Status: 60+
+ 
+Humidity    = 47.37 %
+Pressure    = 100.47 kPa
+Illuminance = 642.58 lx
+Height = 62.78 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:3  
+  
+INVALID 
+ 
+Shield Temperature = 34.68 C
+RTC Temperature = 34.75 C
+Outer Temperature = 63 C
+  
+Average Temperature = 44.14C
+Status: 60+
+ 
+Humidity    = 47.75 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 62.99 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:5  
+  
+INVALID 
+ 
+Shield Temperature = 34.74 C
+RTC Temperature = 34.75 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.16C
+Status: 60+
+ 
+Humidity    = 47.98 %
+Pressure    = 100.47 kPa
+Illuminance = 640.65 lx
+Height = 62.97 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:8  
+  
+INVALID 
+ 
+Shield Temperature = 34.74 C
+RTC Temperature = 34.75 C
+Outer Temperature = 64 C
+  
+Average Temperature = 44.50C
+Status: 60+
+ 
+Humidity    = 48.34 %
+Pressure    = 100.47 kPa
+Illuminance = 641.29 lx
+Height = 62.88 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:10  
+  
+INVALID 
+ 
+Shield Temperature = 34.74 C
+RTC Temperature = 34.75 C
+Outer Temperature = 57 C
+  
+Average Temperature = 42.16C
+Status: 50+
+ 
+Humidity    = 48.37 %
+Pressure    = 100.47 kPa
+Illuminance = 636.13 lx
+Height = 62.95 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:13  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 67 C
+  
+Average Temperature = 45.49C
+Status: 60+
+ 
+Humidity    = 48.67 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 62.59 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:15  
+  
+INVALID 
+ 
+Shield Temperature = 34.74 C
+RTC Temperature = 34.75 C
+Outer Temperature = 36 C
+  
+Average Temperature = 35.16C
+Status: 30+
+ 
+Humidity    = 48.76 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 62.88 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:18  
+  
+INVALID 
+ 
+Shield Temperature = 34.77 C
+RTC Temperature = 34.75 C
+Outer Temperature = 48 C
+  
+Average Temperature = 39.17C
+Status: 40+
+ 
+Humidity    = 48.55 %
+Pressure    = 100.47 kPa
+Illuminance = 636.13 lx
+Height = 62.92 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:20  
+  
+INVALID 
+ 
+Shield Temperature = 34.68 C
+RTC Temperature = 34.75 C
+Outer Temperature = 31 C
+  
+Average Temperature = 33.48C
+Status: 30+
+ 
+Humidity    = 48.39 %
+Pressure    = 100.47 kPa
+Illuminance = 640.00 lx
+Height = 62.84 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:23  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 111 C
+  
+Average Temperature = 60.16C
+Status: 50+
+ 
+Humidity    = 48.49 %
+Pressure    = 100.47 kPa
+Illuminance = 640.00 lx
+Height = 63.01 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:25  
+  
+INVALID 
+ 
+Shield Temperature = 34.75 C
+RTC Temperature = 34.75 C
+Outer Temperature = 123 C
+  
+Average Temperature = 64.17C
+Status: 50+
+ 
+Humidity    = 48.59 %
+Pressure    = 100.47 kPa
+Illuminance = 640.00 lx
+Height = 62.92 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:28  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 120 C
+  
+Average Temperature = 63.16C
+Status: 50+
+ 
+Humidity    = 48.72 %
+Pressure    = 100.47 kPa
+Illuminance = 640.00 lx
+Height = 63.10 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:30  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 106 C
+  
+Average Temperature = 58.49C
+Status: 50+
+ 
+Humidity    = 48.75 %
+Pressure    = 100.47 kPa
+Illuminance = 640.00 lx
+Height = 63.16 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:33  
+  
+INVALID 
+ 
+Shield Temperature = 34.70 C
+RTC Temperature = 34.75 C
+Outer Temperature = 110 C
+  
+Average Temperature = 59.82C
+Status: 50+
+ 
+Humidity    = 48.74 %
+Pressure    = 100.47 kPa
+Illuminance = 640.00 lx
+Height = 62.94 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:35  
+  
+INVALID 
+ 
+Shield Temperature = 34.75 C
+RTC Temperature = 34.75 C
+Outer Temperature = 32 C
+  
+Average Temperature = 33.83C
+Status: 30+
+ 
+Humidity    = 48.37 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 62.81 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:38  
+  
+INVALID 
+ 
+Shield Temperature = 34.77 C
+RTC Temperature = 34.75 C
+Outer Temperature = 34 C
+  
+Average Temperature = 34.51C
+Status: 30+
+ 
+Humidity    = 48.52 %
+Pressure    = 100.47 kPa
+Illuminance = 637.42 lx
+Height = 63.05 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:40  
+  
+INVALID 
+ 
+Shield Temperature = 34.74 C
+RTC Temperature = 34.75 C
+Outer Temperature = 33 C
+  
+Average Temperature = 34.16C
+Status: 30+
+ 
+Humidity    = 48.66 %
+Pressure    = 100.47 kPa
+Illuminance = 640.65 lx
+Height = 62.83 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:43  
+  
+INVALID 
+ 
+Shield Temperature = 34.74 C
+RTC Temperature = 34.75 C
+Outer Temperature = 106 C
+  
+Average Temperature = 58.50C
+Status: 50+
+ 
+Humidity    = 48.95 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 62.99 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:45  
+  
+INVALID 
+ 
+Shield Temperature = 34.70 C
+RTC Temperature = 34.75 C
+Outer Temperature = 84 C
+  
+Average Temperature = 51.15C
+Status: 80+
+ 
+Humidity    = 48.73 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 62.90 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:48  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 83 C
+  
+Average Temperature = 50.82C
+Status: 80+
+ 
+Humidity    = 48.97 %
+Pressure    = 100.47 kPa
+Illuminance = 640.65 lx
+Height = 62.91 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:50  
+  
+INVALID 
+ 
+Shield Temperature = 34.74 C
+RTC Temperature = 34.75 C
+Outer Temperature = 112 C
+  
+Average Temperature = 60.50C
+Status: 50+
+ 
+Humidity    = 49.03 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 62.67 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:53  
+  
+INVALID 
+ 
+Shield Temperature = 34.68 C
+RTC Temperature = 34.75 C
+Outer Temperature = 176 C
+  
+Average Temperature = 81.81C
+Status: 50+
+ 
+Humidity    = 48.81 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 63.01 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:55  
+  
+INVALID 
+ 
+Shield Temperature = 34.70 C
+RTC Temperature = 34.75 C
+Outer Temperature = 185 C
+  
+Average Temperature = 84.82C
+Status: 50+
+ 
+Humidity    = 49.13 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 63.00 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:56:58  
+  
+INVALID 
+ 
+Shield Temperature = 34.68 C
+RTC Temperature = 34.75 C
+Outer Temperature = 117 C
+  
+Average Temperature = 62.14C
+Status: 50+
+ 
+Humidity    = 48.82 %
+Pressure    = 100.47 kPa
+Illuminance = 640.00 lx
+Height = 62.91 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:0  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 93 C
+  
+Average Temperature = 54.16C
+Status: 50+
+ 
+Humidity    = 49.07 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 62.78 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:3  
+  
+INVALID 
+ 
+Shield Temperature = 34.70 C
+RTC Temperature = 34.75 C
+Outer Temperature = 70 C
+  
+Average Temperature = 46.48C
+Status: 60+
+ 
+Humidity    = 48.80 %
+Pressure    = 100.47 kPa
+Illuminance = 638.71 lx
+Height = 62.73 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:5  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 67 C
+  
+Average Temperature = 45.49C
+Status: 60+
+ 
+Humidity    = 48.63 %
+Pressure    = 100.47 kPa
+Illuminance = 638.71 lx
+Height = 62.92 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:8  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 59 C
+  
+Average Temperature = 42.82C
+Status: 50+
+ 
+Humidity    = 49.25 %
+Pressure    = 100.47 kPa
+Illuminance = 638.06 lx
+Height = 62.94 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:10  
+  
+INVALID 
+ 
+Shield Temperature = 34.70 C
+RTC Temperature = 34.75 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.15C
+Status: 60+
+ 
+Humidity    = 48.86 %
+Pressure    = 100.47 kPa
+Illuminance = 636.77 lx
+Height = 62.93 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:13  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 85 C
+  
+Average Temperature = 51.49C
+Status: 80+
+ 
+Humidity    = 49.18 %
+Pressure    = 100.47 kPa
+Illuminance = 638.06 lx
+Height = 62.91 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:15  
+  
+INVALID 
+ 
+Shield Temperature = 34.74 C
+RTC Temperature = 34.75 C
+Outer Temperature = 72 C
+  
+Average Temperature = 47.16C
+Status: 70+
+ 
+Humidity    = 49.04 %
+Pressure    = 100.47 kPa
+Illuminance = 638.71 lx
+Height = 62.68 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:18  
+  
+INVALID 
+ 
+Shield Temperature = 34.68 C
+RTC Temperature = 34.75 C
+Outer Temperature = 46 C
+  
+Average Temperature = 38.48C
+Status: 40+
+ 
+Humidity    = 48.94 %
+Pressure    = 100.47 kPa
+Illuminance = 638.71 lx
+Height = 62.99 m
+UV Index = 0.13
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:20  
+  
+INVALID 
+ 
+Shield Temperature = 34.74 C
+RTC Temperature = 34.75 C
+Outer Temperature = 42 C
+  
+Average Temperature = 37.16C
+Status: 40+
+ 
+Humidity    = 48.96 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 62.76 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:23  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 48 C
+  
+Average Temperature = 39.16C
+Status: 40+
+ 
+Humidity    = 49.00 %
+Pressure    = 100.47 kPa
+Illuminance = 635.48 lx
+Height = 62.82 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:25  
+  
+INVALID 
+ 
+Shield Temperature = 34.74 C
+RTC Temperature = 34.75 C
+Outer Temperature = 73 C
+  
+Average Temperature = 47.50C
+Status: 70+
+ 
+Humidity    = 48.52 %
+Pressure    = 100.47 kPa
+Illuminance = 638.71 lx
+Height = 62.60 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:28  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 72 C
+  
+Average Temperature = 47.16C
+Status: 70+
+ 
+Humidity    = 48.89 %
+Pressure    = 100.47 kPa
+Illuminance = 637.42 lx
+Height = 62.98 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:30  
+  
+INVALID 
+ 
+Shield Temperature = 34.75 C
+RTC Temperature = 34.75 C
+Outer Temperature = 77 C
+  
+Average Temperature = 48.83C
+Status: 70+
+ 
+Humidity    = 48.89 %
+Pressure    = 100.47 kPa
+Illuminance = 636.77 lx
+Height = 62.95 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:33  
+  
+INVALID 
+ 
+Shield Temperature = 34.70 C
+RTC Temperature = 34.75 C
+Outer Temperature = 59 C
+  
+Average Temperature = 42.82C
+Status: 50+
+ 
+Humidity    = 48.64 %
+Pressure    = 100.47 kPa
+Illuminance = 638.06 lx
+Height = 62.96 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:35  
+  
+INVALID 
+ 
+Shield Temperature = 34.74 C
+RTC Temperature = 34.75 C
+Outer Temperature = 58 C
+  
+Average Temperature = 42.50C
+Status: 50+
+ 
+Humidity    = 48.83 %
+Pressure    = 100.47 kPa
+Illuminance = 636.13 lx
+Height = 62.98 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:38  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 56 C
+  
+Average Temperature = 41.82C
+Status: 50+
+ 
+Humidity    = 49.03 %
+Pressure    = 100.47 kPa
+Illuminance = 558.71 lx
+Height = 62.90 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:40  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.82C
+Status: 70+
+ 
+Humidity    = 48.56 %
+Pressure    = 100.47 kPa
+Illuminance = 550.32 lx
+Height = 62.72 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:43  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 77 C
+  
+Average Temperature = 48.82C
+Status: 70+
+ 
+Humidity    = 48.84 %
+Pressure    = 100.47 kPa
+Illuminance = 542.58 lx
+Height = 63.09 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:45  
+  
+INVALID 
+ 
+Shield Temperature = 34.70 C
+RTC Temperature = 34.75 C
+Outer Temperature = 78 C
+  
+Average Temperature = 49.15C
+Status: 70+
+ 
+Humidity    = 48.76 %
+Pressure    = 100.47 kPa
+Illuminance = 514.84 lx
+Height = 62.91 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:48  
+  
+INVALID 
+ 
+Shield Temperature = 34.68 C
+RTC Temperature = 34.75 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.81C
+Status: 70+
+ 
+Humidity    = 48.75 %
+Pressure    = 100.47 kPa
+Illuminance = 640.00 lx
+Height = 62.85 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:50  
+  
+INVALID 
+ 
+Shield Temperature = 34.68 C
+RTC Temperature = 34.75 C
+Outer Temperature = 77 C
+  
+Average Temperature = 48.81C
+Status: 70+
+ 
+Humidity    = 48.78 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 62.90 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:53  
+  
+INVALID 
+ 
+Shield Temperature = 34.68 C
+RTC Temperature = 34.75 C
+Outer Temperature = 43 C
+  
+Average Temperature = 37.48C
+Status: 40+
+ 
+Humidity    = 48.58 %
+Pressure    = 100.47 kPa
+Illuminance = 640.00 lx
+Height = 63.23 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:55  
+  
+INVALID 
+ 
+Shield Temperature = 34.70 C
+RTC Temperature = 34.75 C
+Outer Temperature = 50 C
+  
+Average Temperature = 39.82C
+Status: 40+
+ 
+Humidity    = 48.68 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 62.92 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:57:58  
+  
+INVALID 
+ 
+Shield Temperature = 34.68 C
+RTC Temperature = 34.75 C
+Outer Temperature = 63 C
+  
+Average Temperature = 44.14C
+Status: 60+
+ 
+Humidity    = 48.88 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 63.06 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:0  
+  
+INVALID 
+ 
+Shield Temperature = 34.68 C
+RTC Temperature = 34.75 C
+Outer Temperature = 133 C
+  
+Average Temperature = 67.48C
+Status: 50+
+ 
+Humidity    = 48.86 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 63.00 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:3  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 116 C
+  
+Average Temperature = 61.82C
+Status: 50+
+ 
+Humidity    = 48.62 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 62.89 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:5  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 81 C
+  
+Average Temperature = 50.16C
+Status: 80+
+ 
+Humidity    = 49.03 %
+Pressure    = 100.47 kPa
+Illuminance = 638.71 lx
+Height = 63.03 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:8  
+  
+INVALID 
+ 
+Shield Temperature = 34.75 C
+RTC Temperature = 34.75 C
+Outer Temperature = 51 C
+  
+Average Temperature = 40.17C
+Status: 50+
+ 
+Humidity    = 48.79 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 62.61 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:10  
+  
+INVALID 
+ 
+Shield Temperature = 34.74 C
+RTC Temperature = 34.75 C
+Outer Temperature = 44 C
+  
+Average Temperature = 37.83C
+Status: 40+
+ 
+Humidity    = 48.84 %
+Pressure    = 100.47 kPa
+Illuminance = 640.00 lx
+Height = 62.84 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:13  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 37 C
+  
+Average Temperature = 35.49C
+Status: 30+
+ 
+Humidity    = 48.68 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 63.01 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:15  
+  
+INVALID 
+ 
+Shield Temperature = 34.79 C
+RTC Temperature = 34.75 C
+Outer Temperature = 113 C
+  
+Average Temperature = 60.85C
+Status: 50+
+ 
+Humidity    = 49.01 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 63.09 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:18  
+  
+INVALID 
+ 
+Shield Temperature = 34.74 C
+RTC Temperature = 34.75 C
+Outer Temperature = 109 C
+  
+Average Temperature = 59.50C
+Status: 50+
+ 
+Humidity    = 48.84 %
+Pressure    = 100.47 kPa
+Illuminance = 640.00 lx
+Height = 63.10 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:20  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 119 C
+  
+Average Temperature = 62.82C
+Status: 50+
+ 
+Humidity    = 48.87 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 62.83 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:23  
+  
+INVALID 
+ 
+Shield Temperature = 34.75 C
+RTC Temperature = 34.75 C
+Outer Temperature = 58 C
+  
+Average Temperature = 42.50C
+Status: 50+
+ 
+Humidity    = 48.77 %
+Pressure    = 100.47 kPa
+Illuminance = 639.35 lx
+Height = 62.95 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:25  
+  
+INVALID 
+ 
+Shield Temperature = 34.75 C
+RTC Temperature = 34.75 C
+Outer Temperature = 30 C
+  
+Average Temperature = 33.17C
+Status: 20+
+ 
+Humidity    = 49.17 %
+Pressure    = 100.47 kPa
+Illuminance = 636.77 lx
+Height = 63.06 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:28  
+  
+INVALID 
+ 
+Shield Temperature = 34.74 C
+RTC Temperature = 34.75 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.16C
+Status: 60+
+ 
+Humidity    = 49.41 %
+Pressure    = 100.47 kPa
+Illuminance = 637.42 lx
+Height = 62.95 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:30  
+  
+INVALID 
+ 
+Shield Temperature = 34.77 C
+RTC Temperature = 34.75 C
+Outer Temperature = 110 C
+  
+Average Temperature = 59.84C
+Status: 50+
+ 
+Humidity    = 49.51 %
+Pressure    = 100.47 kPa
+Illuminance = 637.42 lx
+Height = 62.88 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:33  
+  
+INVALID 
+ 
+Shield Temperature = 34.75 C
+RTC Temperature = 34.75 C
+Outer Temperature = 119 C
+  
+Average Temperature = 62.83C
+Status: 50+
+ 
+Humidity    = 49.48 %
+Pressure    = 100.47 kPa
+Illuminance = 627.10 lx
+Height = 62.97 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:35  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 93 C
+  
+Average Temperature = 54.16C
+Status: 50+
+ 
+Humidity    = 49.53 %
+Pressure    = 100.47 kPa
+Illuminance = 625.81 lx
+Height = 63.21 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:38  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 83 C
+  
+Average Temperature = 50.82C
+Status: 80+
+ 
+Humidity    = 49.50 %
+Pressure    = 100.47 kPa
+Illuminance = 618.06 lx
+Height = 62.83 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:40  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.75 C
+Outer Temperature = 83 C
+  
+Average Temperature = 50.82C
+Status: 80+
+ 
+Humidity    = 49.65 %
+Pressure    = 100.47 kPa
+Illuminance = 623.87 lx
+Height = 62.98 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:43  
+  
+INVALID 
+ 
+Shield Temperature = 34.68 C
+RTC Temperature = 34.50 C
+Outer Temperature = 52 C
+  
+Average Temperature = 40.39C
+Status: 50+
+ 
+Humidity    = 49.33 %
+Pressure    = 100.47 kPa
+Illuminance = 493.55 lx
+Height = 62.73 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:45  
+  
+INVALID 
+ 
+Shield Temperature = 34.74 C
+RTC Temperature = 34.50 C
+Outer Temperature = 51 C
+  
+Average Temperature = 40.08C
+Status: 50+
+ 
+Humidity    = 49.36 %
+Pressure    = 100.47 kPa
+Illuminance = 598.71 lx
+Height = 62.83 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:48  
+  
+INVALID 
+ 
+Shield Temperature = 34.72 C
+RTC Temperature = 34.50 C
+Outer Temperature = 78 C
+  
+Average Temperature = 49.07C
+Status: 70+
+ 
+Humidity    = 49.50 %
+Pressure    = 100.47 kPa
+Illuminance = 593.55 lx
+Height = 63.08 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:50  
+  
+INVALID 
+ 
+Shield Temperature = 34.68 C
+RTC Temperature = 34.50 C
+Outer Temperature = 79 C
+  
+Average Temperature = 49.39C
+Status: 70+
+ 
+Humidity    = 49.15 %
+Pressure    = 100.47 kPa
+Illuminance = 605.81 lx
+Height = 62.96 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:52  
+  
+INVALID 
+ 
+Shield Temperature = 34.68 C
+RTC Temperature = 34.50 C
+Outer Temperature = 52 C
+  
+Average Temperature = 40.39C
+Status: 50+
+ 
+Humidity    = 49.28 %
+Pressure    = 100.46 kPa
+Illuminance = 598.71 lx
+Height = 63.27 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:55  
+  
+INVALID 
+ 
+Shield Temperature = 34.66 C
+RTC Temperature = 34.50 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.05C
+Status: 60+
+ 
+Humidity    = 49.60 %
+Pressure    = 100.47 kPa
+Illuminance = 592.90 lx
+Height = 62.89 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:57  
+  
+INVALID 
+ 
+Shield Temperature = 34.63 C
+RTC Temperature = 34.50 C
+Outer Temperature = 72 C
+  
+Average Temperature = 47.04C
+Status: 70+
+ 
+Humidity    = 49.44 %
+Pressure    = 100.47 kPa
+Illuminance = 567.10 lx
+Height = 63.21 m
+UV Index = 0.13
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:58:59  
+  
+INVALID 
+ 
+Shield Temperature = 34.65 C
+RTC Temperature = 34.50 C
+Outer Temperature = 77 C
+  
+Average Temperature = 48.72C
+Status: 70+
+ 
+Humidity    = 49.16 %
+Pressure    = 100.47 kPa
+Illuminance = 576.77 lx
+Height = 62.97 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:1  
+  
+INVALID 
+ 
+Shield Temperature = 34.61 C
+RTC Temperature = 34.50 C
+Outer Temperature = 73 C
+  
+Average Temperature = 47.37C
+Status: 70+
+ 
+Humidity    = 49.43 %
+Pressure    = 100.47 kPa
+Illuminance = 596.13 lx
+Height = 62.88 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:3  
+  
+INVALID 
+ 
+Shield Temperature = 34.61 C
+RTC Temperature = 34.50 C
+Outer Temperature = 75 C
+  
+Average Temperature = 48.04C
+Status: 70+
+ 
+Humidity    = 48.98 %
+Pressure    = 100.47 kPa
+Illuminance = 607.74 lx
+Height = 63.22 m
+UV Index = 0.13
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:5  
+  
+INVALID 
+ 
+Shield Temperature = 34.63 C
+RTC Temperature = 34.50 C
+Outer Temperature = 48 C
+  
+Average Temperature = 39.04C
+Status: 40+
+ 
+Humidity    = 49.19 %
+Pressure    = 100.47 kPa
+Illuminance = 608.39 lx
+Height = 63.14 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:7  
+  
+INVALID 
+ 
+Shield Temperature = 34.63 C
+RTC Temperature = 34.50 C
+Outer Temperature = 50 C
+  
+Average Temperature = 39.71C
+Status: 40+
+ 
+Humidity    = 48.95 %
+Pressure    = 100.47 kPa
+Illuminance = 610.97 lx
+Height = 62.91 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:9  
+  
+INVALID 
+ 
+Shield Temperature = 34.61 C
+RTC Temperature = 34.50 C
+Outer Temperature = 56 C
+  
+Average Temperature = 41.70C
+Status: 50+
+ 
+Humidity    = 49.03 %
+Pressure    = 100.47 kPa
+Illuminance = 585.16 lx
+Height = 63.14 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:11  
+  
+INVALID 
+ 
+Shield Temperature = 34.59 C
+RTC Temperature = 34.50 C
+Outer Temperature = 78 C
+  
+Average Temperature = 49.03C
+Status: 70+
+ 
+Humidity    = 49.12 %
+Pressure    = 100.47 kPa
+Illuminance = 571.61 lx
+Height = 63.04 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:14  
+  
+INVALID 
+ 
+Shield Temperature = 34.59 C
+RTC Temperature = 34.50 C
+Outer Temperature = 79 C
+  
+Average Temperature = 49.36C
+Status: 70+
+ 
+Humidity    = 49.23 %
+Pressure    = 100.47 kPa
+Illuminance = 545.81 lx
+Height = 62.99 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:16  
+  
+INVALID 
+ 
+Shield Temperature = 34.57 C
+RTC Temperature = 34.50 C
+Outer Temperature = 72 C
+  
+Average Temperature = 47.02C
+Status: 70+
+ 
+Humidity    = 48.86 %
+Pressure    = 100.47 kPa
+Illuminance = 503.23 lx
+Height = 63.12 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:18  
+  
+INVALID 
+ 
+Shield Temperature = 34.61 C
+RTC Temperature = 34.50 C
+Outer Temperature = 81 C
+  
+Average Temperature = 50.04C
+Status: 80+
+ 
+Humidity    = 48.78 %
+Pressure    = 100.47 kPa
+Illuminance = 533.55 lx
+Height = 62.84 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:20  
+  
+INVALID 
+ 
+Shield Temperature = 34.56 C
+RTC Temperature = 34.50 C
+Outer Temperature = 78 C
+  
+Average Temperature = 49.02C
+Status: 70+
+ 
+Humidity    = 48.78 %
+Pressure    = 100.47 kPa
+Illuminance = 490.97 lx
+Height = 63.00 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:22  
+  
+INVALID 
+ 
+Shield Temperature = 34.59 C
+RTC Temperature = 34.50 C
+Outer Temperature = 40 C
+  
+Average Temperature = 36.36C
+Status: 30+
+ 
+Humidity    = 49.09 %
+Pressure    = 100.47 kPa
+Illuminance = 523.87 lx
+Height = 62.93 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:24  
+  
+INVALID 
+ 
+Shield Temperature = 34.57 C
+RTC Temperature = 34.50 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.02C
+Status: 60+
+ 
+Humidity    = 48.99 %
+Pressure    = 100.47 kPa
+Illuminance = 482.58 lx
+Height = 63.08 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:26  
+  
+INVALID 
+ 
+Shield Temperature = 34.56 C
+RTC Temperature = 34.50 C
+Outer Temperature = 81 C
+  
+Average Temperature = 50.02C
+Status: 80+
+ 
+Humidity    = 49.10 %
+Pressure    = 100.47 kPa
+Illuminance = 636.13 lx
+Height = 63.03 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:28  
+  
+INVALID 
+ 
+Shield Temperature = 34.57 C
+RTC Temperature = 34.50 C
+Outer Temperature = 54 C
+  
+Average Temperature = 41.02C
+Status: 50+
+ 
+Humidity    = 49.35 %
+Pressure    = 100.47 kPa
+Illuminance = 626.45 lx
+Height = 62.99 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:30  
+  
+INVALID 
+ 
+Shield Temperature = 34.57 C
+RTC Temperature = 34.50 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.69C
+Status: 70+
+ 
+Humidity    = 49.29 %
+Pressure    = 100.47 kPa
+Illuminance = 621.29 lx
+Height = 62.91 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:36  
+  
+INVALID 
+ 
+Shield Temperature = 34.57 C
+RTC Temperature = 34.50 C
+Outer Temperature = 77 C
+  
+Average Temperature = 48.69C
+Status: 70+
+ 
+Humidity    = 49.38 %
+Pressure    = 100.47 kPa
+Illuminance = 638.06 lx
+Height = 62.95 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:43  
+  
+INVALID 
+ 
+Shield Temperature = 34.46 C
+RTC Temperature = 34.50 C
+Outer Temperature = 69 C
+  
+Average Temperature = 45.99C
+Status: 60+
+ 
+Humidity    = 49.56 %
+Pressure    = 100.47 kPa
+Illuminance = 632.90 lx
+Height = 62.88 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:50  
+  
+INVALID 
+ 
+Shield Temperature = 34.43 C
+RTC Temperature = 34.50 C
+Outer Temperature = 70 C
+  
+Average Temperature = 46.31C
+Status: 60+
+ 
+Humidity    = 49.81 %
+Pressure    = 100.47 kPa
+Illuminance = 599.35 lx
+Height = 63.01 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 14:59:57  
+  
+INVALID 
+ 
+Shield Temperature = 34.45 C
+RTC Temperature = 34.50 C
+Outer Temperature = 67 C
+  
+Average Temperature = 45.32C
+Status: 60+
+ 
+Humidity    = 50.08 %
+Pressure    = 100.47 kPa
+Illuminance = 632.26 lx
+Height = 62.87 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:0:4  
+  
+INVALID 
+ 
+Shield Temperature = 34.45 C
+RTC Temperature = 34.50 C
+Outer Temperature = 61 C
+  
+Average Temperature = 43.32C
+Status: 60+
+ 
+Humidity    = 50.13 %
+Pressure    = 100.47 kPa
+Illuminance = 632.90 lx
+Height = 63.04 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:0:11  
+  
+INVALID 
+ 
+Shield Temperature = 34.43 C
+RTC Temperature = 34.50 C
+Outer Temperature = 75 C
+  
+Average Temperature = 47.98C
+Status: 70+
+ 
+Humidity    = 50.13 %
+Pressure    = 100.46 kPa
+Illuminance = 638.71 lx
+Height = 63.31 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:0:19  
+  
+INVALID 
+ 
+Shield Temperature = 34.46 C
+RTC Temperature = 34.50 C
+Outer Temperature = 77 C
+  
+Average Temperature = 48.65C
+Status: 70+
+ 
+Humidity    = 50.15 %
+Pressure    = 100.47 kPa
+Illuminance = 638.71 lx
+Height = 62.99 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:0:26  
+  
+INVALID 
+ 
+Shield Temperature = 34.48 C
+RTC Temperature = 34.50 C
+Outer Temperature = 68 C
+  
+Average Temperature = 45.66C
+Status: 60+
+ 
+Humidity    = 50.22 %
+Pressure    = 100.47 kPa
+Illuminance = 638.06 lx
+Height = 63.13 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:15:29  
+  
+INVALID 
+ 
+Shield Temperature = 34.10 C
+RTC Temperature = 34.00 C
+Outer Temperature = 89 C
+  
+Average Temperature = 52.37C
+Status: 80+
+ 
+Humidity    = 51.85 %
+Pressure    = 100.47 kPa
+Illuminance = 638.06 lx
+Height = 63.24 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:21:56  
+  
+INVALID 
+ 
+Shield Temperature = 34.52 C
+RTC Temperature = 34.00 C
+Outer Temperature = 81 C
+  
+Average Temperature = 49.84C
+Status: 80+
+ 
+Humidity    = 51.22 %
+Pressure    = 100.46 kPa
+Illuminance = 623.87 lx
+Height = 63.41 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:26:26  
+  
+INVALID 
+ 
+Shield Temperature = 34.59 C
+RTC Temperature = 34.50 C
+Outer Temperature = 82 C
+  
+Average Temperature = 50.36C
+Status: 80+
+ 
+Humidity    = 50.96 %
+Pressure    = 100.47 kPa
+Illuminance = 635.48 lx
+Height = 63.03 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:26:29  
+  
+INVALID 
+ 
+Shield Temperature = 34.90 C
+RTC Temperature = 34.50 C
+Outer Temperature = 51 C
+  
+Average Temperature = 40.13C
+Status: 50+
+ 
+Humidity    = 51.17 %
+Pressure    = 100.46 kPa
+Illuminance = 629.68 lx
+Height = 63.46 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:26:31  
+  
+INVALID 
+ 
+Shield Temperature = 34.95 C
+RTC Temperature = 34.50 C
+Outer Temperature = 48 C
+  
+Average Temperature = 39.15C
+Status: 40+
+ 
+Humidity    = 51.23 %
+Pressure    = 100.46 kPa
+Illuminance = 635.48 lx
+Height = 63.62 m
+UV Index = 0.13
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:26:34  
+  
+INVALID 
+ 
+Shield Temperature = 34.94 C
+RTC Temperature = 34.50 C
+Outer Temperature = 64 C
+  
+Average Temperature = 44.48C
+Status: 60+
+ 
+Humidity    = 51.15 %
+Pressure    = 100.46 kPa
+Illuminance = 634.19 lx
+Height = 63.38 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:26:43  
+  
+INVALID 
+ 
+Shield Temperature = 34.95 C
+RTC Temperature = 34.50 C
+Outer Temperature = 73 C
+  
+Average Temperature = 47.48C
+Status: 70+
+ 
+Humidity    = 51.28 %
+Pressure    = 100.46 kPa
+Illuminance = 638.71 lx
+Height = 63.61 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:28:6  
+  
+INVALID 
+ 
+Shield Temperature = 34.86 C
+RTC Temperature = 34.50 C
+Outer Temperature = 60 C
+  
+Average Temperature = 43.12C
+Status: 50+
+ 
+Humidity    = 50.76 %
+Pressure    = 100.46 kPa
+Illuminance = 643.23 lx
+Height = 63.34 m
+UV Index = 0.35
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:28:8  
+  
+INVALID 
+ 
+Shield Temperature = 34.83 C
+RTC Temperature = 34.50 C
+Outer Temperature = 63 C
+  
+Average Temperature = 44.11C
+Status: 60+
+ 
+Humidity    = 50.68 %
+Pressure    = 100.46 kPa
+Illuminance = 643.87 lx
+Height = 63.56 m
+UV Index = 0.35
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:28:10  
+  
+INVALID 
+ 
+Shield Temperature = 34.81 C
+RTC Temperature = 34.50 C
+Outer Temperature = 68 C
+  
+Average Temperature = 45.77C
+Status: 60+
+ 
+Humidity    = 50.61 %
+Pressure    = 100.46 kPa
+Illuminance = 643.23 lx
+Height = 63.54 m
+UV Index = 0.32
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:28:13  
+  
+INVALID 
+ 
+Shield Temperature = 34.86 C
+RTC Temperature = 34.50 C
+Outer Temperature = 68 C
+  
+Average Temperature = 45.79C
+Status: 60+
+ 
+Humidity    = 50.76 %
+Pressure    = 100.46 kPa
+Illuminance = 643.87 lx
+Height = 63.47 m
+UV Index = 0.32
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:28:15  
+  
+INVALID 
+ 
+Shield Temperature = 34.83 C
+RTC Temperature = 34.50 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.11C
+Status: 60+
+ 
+Humidity    = 50.46 %
+Pressure    = 100.46 kPa
+Illuminance = 643.23 lx
+Height = 63.42 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:28:17  
+  
+INVALID 
+ 
+Shield Temperature = 34.83 C
+RTC Temperature = 34.50 C
+Outer Temperature = 64 C
+  
+Average Temperature = 44.44C
+Status: 60+
+ 
+Humidity    = 50.77 %
+Pressure    = 100.46 kPa
+Illuminance = 643.87 lx
+Height = 63.51 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:28:19  
+  
+INVALID 
+ 
+Shield Temperature = 34.88 C
+RTC Temperature = 34.50 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.79C
+Status: 70+
+ 
+Humidity    = 50.47 %
+Pressure    = 100.46 kPa
+Illuminance = 643.23 lx
+Height = 63.48 m
+UV Index = 0.39
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:28:21  
+  
+INVALID 
+ 
+Shield Temperature = 34.90 C
+RTC Temperature = 34.50 C
+Outer Temperature = 56 C
+  
+Average Temperature = 41.80C
+Status: 50+
+ 
+Humidity    = 50.83 %
+Pressure    = 100.47 kPa
+Illuminance = 643.23 lx
+Height = 63.22 m
+UV Index = 0.35
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:28:48  
+  
+INVALID 
+ 
+Shield Temperature = 34.88 C
+RTC Temperature = 34.50 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.13C
+Status: 60+
+ 
+Humidity    = 51.52 %
+Pressure    = 100.46 kPa
+Illuminance = 634.84 lx
+Height = 63.42 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:28:50  
+  
+INVALID 
+ 
+Shield Temperature = 34.92 C
+RTC Temperature = 34.50 C
+Outer Temperature = 68 C
+  
+Average Temperature = 45.81C
+Status: 60+
+ 
+Humidity    = 51.51 %
+Pressure    = 100.46 kPa
+Illuminance = 634.84 lx
+Height = 63.62 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:28:53  
+  
+INVALID 
+ 
+Shield Temperature = 34.90 C
+RTC Temperature = 34.50 C
+Outer Temperature = 81 C
+  
+Average Temperature = 50.13C
+Status: 80+
+ 
+Humidity    = 51.85 %
+Pressure    = 100.46 kPa
+Illuminance = 634.84 lx
+Height = 63.56 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:28:55  
+  
+INVALID 
+ 
+Shield Temperature = 34.92 C
+RTC Temperature = 34.50 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.81C
+Status: 70+
+ 
+Humidity    = 51.84 %
+Pressure    = 100.46 kPa
+Illuminance = 637.42 lx
+Height = 63.57 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:28:57  
+  
+INVALID 
+ 
+Shield Temperature = 34.90 C
+RTC Temperature = 34.50 C
+Outer Temperature = 53 C
+  
+Average Temperature = 40.80C
+Status: 50+
+ 
+Humidity    = 51.60 %
+Pressure    = 100.46 kPa
+Illuminance = 634.19 lx
+Height = 63.53 m
+UV Index = 0.13
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:28:59  
+  
+INVALID 
+ 
+Shield Temperature = 34.94 C
+RTC Temperature = 34.50 C
+Outer Temperature = 62 C
+  
+Average Temperature = 43.81C
+Status: 60+
+ 
+Humidity    = 51.79 %
+Pressure    = 100.46 kPa
+Illuminance = 641.29 lx
+Height = 63.64 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:1  
+  
+INVALID 
+ 
+Shield Temperature = 34.94 C
+RTC Temperature = 34.50 C
+Outer Temperature = 74 C
+  
+Average Temperature = 47.81C
+Status: 70+
+ 
+Humidity    = 51.61 %
+Pressure    = 100.46 kPa
+Illuminance = 635.48 lx
+Height = 63.53 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:4  
+  
+INVALID 
+ 
+Shield Temperature = 34.92 C
+RTC Temperature = 34.50 C
+Outer Temperature = 58 C
+  
+Average Temperature = 42.47C
+Status: 50+
+ 
+Humidity    = 51.38 %
+Pressure    = 100.46 kPa
+Illuminance = 637.42 lx
+Height = 63.84 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:6  
+  
+INVALID 
+ 
+Shield Temperature = 34.92 C
+RTC Temperature = 34.50 C
+Outer Temperature = 52 C
+  
+Average Temperature = 40.47C
+Status: 50+
+ 
+Humidity    = 51.44 %
+Pressure    = 100.46 kPa
+Illuminance = 638.06 lx
+Height = 63.49 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:8  
+  
+INVALID 
+ 
+Shield Temperature = 34.92 C
+RTC Temperature = 34.50 C
+Outer Temperature = 126 C
+  
+Average Temperature = 65.14C
+Status: 50+
+ 
+Humidity    = 51.28 %
+Pressure    = 100.46 kPa
+Illuminance = 640.00 lx
+Height = 63.53 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:10  
+  
+INVALID 
+ 
+Shield Temperature = 34.90 C
+RTC Temperature = 34.50 C
+Outer Temperature = 43 C
+  
+Average Temperature = 37.47C
+Status: 40+
+ 
+Humidity    = 51.28 %
+Pressure    = 100.46 kPa
+Illuminance = 641.29 lx
+Height = 63.70 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:12  
+  
+INVALID 
+ 
+Shield Temperature = 34.94 C
+RTC Temperature = 34.50 C
+Outer Temperature = 52 C
+  
+Average Temperature = 40.48C
+Status: 50+
+ 
+Humidity    = 51.05 %
+Pressure    = 100.46 kPa
+Illuminance = 641.29 lx
+Height = 63.73 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:14  
+  
+INVALID 
+ 
+Shield Temperature = 34.94 C
+RTC Temperature = 34.50 C
+Outer Temperature = 89 C
+  
+Average Temperature = 52.81C
+Status: 80+
+ 
+Humidity    = 51.16 %
+Pressure    = 100.46 kPa
+Illuminance = 642.58 lx
+Height = 63.60 m
+UV Index = 0.13
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:16  
+  
+INVALID 
+ 
+Shield Temperature = 34.94 C
+RTC Temperature = 34.50 C
+Outer Temperature = 65 C
+  
+Average Temperature = 44.81C
+Status: 60+
+ 
+Humidity    = 51.40 %
+Pressure    = 100.46 kPa
+Illuminance = 641.94 lx
+Height = 63.67 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:18  
+  
+INVALID 
+ 
+Shield Temperature = 34.94 C
+RTC Temperature = 34.50 C
+Outer Temperature = 75 C
+  
+Average Temperature = 48.15C
+Status: 70+
+ 
+Humidity    = 51.51 %
+Pressure    = 100.46 kPa
+Illuminance = 641.94 lx
+Height = 63.65 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:20  
+  
+INVALID 
+ 
+Shield Temperature = 34.94 C
+RTC Temperature = 34.50 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.15C
+Status: 60+
+ 
+Humidity    = 51.67 %
+Pressure    = 100.46 kPa
+Illuminance = 641.29 lx
+Height = 63.80 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:22  
+  
+INVALID 
+ 
+Shield Temperature = 34.97 C
+RTC Temperature = 34.50 C
+Outer Temperature = 63 C
+  
+Average Temperature = 44.16C
+Status: 60+
+ 
+Humidity    = 51.40 %
+Pressure    = 100.46 kPa
+Illuminance = 640.00 lx
+Height = 63.75 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:25  
+  
+INVALID 
+ 
+Shield Temperature = 34.97 C
+RTC Temperature = 34.50 C
+Outer Temperature = 78 C
+  
+Average Temperature = 49.16C
+Status: 70+
+ 
+Humidity    = 51.39 %
+Pressure    = 100.46 kPa
+Illuminance = 640.65 lx
+Height = 63.53 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:27  
+  
+INVALID 
+ 
+Shield Temperature = 34.99 C
+RTC Temperature = 34.50 C
+Outer Temperature = 91 C
+  
+Average Temperature = 53.50C
+Status: 50+
+ 
+Humidity    = 51.57 %
+Pressure    = 100.46 kPa
+Illuminance = 638.71 lx
+Height = 63.64 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:29  
+  
+INVALID 
+ 
+Shield Temperature = 35.01 C
+RTC Temperature = 34.50 C
+Outer Temperature = 94 C
+  
+Average Temperature = 54.50C
+Status: 50+
+ 
+Humidity    = 51.44 %
+Pressure    = 100.46 kPa
+Illuminance = 638.06 lx
+Height = 63.87 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:31  
+  
+INVALID 
+ 
+Shield Temperature = 34.97 C
+RTC Temperature = 34.50 C
+Outer Temperature = 93 C
+  
+Average Temperature = 54.16C
+Status: 50+
+ 
+Humidity    = 51.83 %
+Pressure    = 100.46 kPa
+Illuminance = 637.42 lx
+Height = 63.66 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:33  
+  
+INVALID 
+ 
+Shield Temperature = 35.03 C
+RTC Temperature = 34.50 C
+Outer Temperature = 33 C
+  
+Average Temperature = 34.18C
+Status: 30+
+ 
+Humidity    = 51.77 %
+Pressure    = 100.46 kPa
+Illuminance = 638.06 lx
+Height = 63.71 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:35  
+  
+INVALID 
+ 
+Shield Temperature = 34.99 C
+RTC Temperature = 34.50 C
+Outer Temperature = 60 C
+  
+Average Temperature = 43.16C
+Status: 50+
+ 
+Humidity    = 52.04 %
+Pressure    = 100.46 kPa
+Illuminance = 636.77 lx
+Height = 63.64 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:37  
+  
+INVALID 
+ 
+Shield Temperature = 35.01 C
+RTC Temperature = 34.50 C
+Outer Temperature = 50 C
+  
+Average Temperature = 39.84C
+Status: 40+
+ 
+Humidity    = 52.29 %
+Pressure    = 100.46 kPa
+Illuminance = 637.42 lx
+Height = 63.73 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:39  
+  
+INVALID 
+ 
+Shield Temperature = 35.04 C
+RTC Temperature = 34.50 C
+Outer Temperature = 67 C
+  
+Average Temperature = 45.51C
+Status: 60+
+ 
+Humidity    = 52.82 %
+Pressure    = 100.46 kPa
+Illuminance = 638.06 lx
+Height = 63.45 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:41  
+  
+INVALID 
+ 
+Shield Temperature = 35.06 C
+RTC Temperature = 34.50 C
+Outer Temperature = 43 C
+  
+Average Temperature = 37.52C
+Status: 40+
+ 
+Humidity    = 53.58 %
+Pressure    = 100.46 kPa
+Illuminance = 637.42 lx
+Height = 63.57 m
+UV Index = 0.26
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:44  
+  
+INVALID 
+ 
+Shield Temperature = 35.08 C
+RTC Temperature = 34.50 C
+Outer Temperature = 106 C
+  
+Average Temperature = 58.53C
+Status: 50+
+ 
+Humidity    = 53.78 %
+Pressure    = 100.46 kPa
+Illuminance = 636.77 lx
+Height = 63.91 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:46  
+  
+INVALID 
+ 
+Shield Temperature = 35.10 C
+RTC Temperature = 34.50 C
+Outer Temperature = 87 C
+  
+Average Temperature = 52.20C
+Status: 80+
+ 
+Humidity    = 53.98 %
+Pressure    = 100.46 kPa
+Illuminance = 583.87 lx
+Height = 63.65 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:48  
+  
+INVALID 
+ 
+Shield Temperature = 35.08 C
+RTC Temperature = 34.50 C
+Outer Temperature = 60 C
+  
+Average Temperature = 43.19C
+Status: 50+
+ 
+Humidity    = 53.78 %
+Pressure    = 100.46 kPa
+Illuminance = 641.94 lx
+Height = 63.71 m
+UV Index = 0.55
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:50  
+  
+INVALID 
+ 
+Shield Temperature = 35.10 C
+RTC Temperature = 34.50 C
+Outer Temperature = 81 C
+  
+Average Temperature = 50.20C
+Status: 80+
+ 
+Humidity    = 53.70 %
+Pressure    = 100.46 kPa
+Illuminance = 640.00 lx
+Height = 63.59 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:29:52  
+  
+INVALID 
+ 
+Shield Temperature = 35.10 C
+RTC Temperature = 34.50 C
+Outer Temperature = 125 C
+  
+Average Temperature = 64.87C
+Status: 50+
+ 
+Humidity    = 53.77 %
+Pressure    = 100.46 kPa
+Illuminance = 641.29 lx
+Height = 63.77 m
+UV Index = 0.32
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:31:29  
+  
+INVALID 
+ 
+Shield Temperature = 34.94 C
+RTC Temperature = 34.25 C
+Outer Temperature = 72 C
+  
+Average Temperature = 47.06C
+Status: 70+
+ 
+Humidity    = 51.22 %
+Pressure    = 100.46 kPa
+Illuminance = 483.87 lx
+Height = 63.73 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:40:9  
+  
+INVALID 
+ 
+Shield Temperature = 34.68 C
+RTC Temperature = 34.25 C
+Outer Temperature = 89 C
+  
+Average Temperature = 52.64C
+Status: 80+
+ 
+Humidity    = 53.61 %
+Pressure    = 100.46 kPa
+Illuminance = 440.65 lx
+Height = 63.94 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:40:11  
+  
+INVALID 
+ 
+Shield Temperature = 34.66 C
+RTC Temperature = 34.25 C
+Outer Temperature = 87 C
+  
+Average Temperature = 51.97C
+Status: 80+
+ 
+Humidity    = 53.43 %
+Pressure    = 100.46 kPa
+Illuminance = 431.61 lx
+Height = 63.68 m
+UV Index = 0.32
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:40:31  
+  
+INVALID 
+ 
+Shield Temperature = 34.61 C
+RTC Temperature = 34.25 C
+Outer Temperature = 102 C
+  
+Average Temperature = 56.95C
+Status: 50+
+ 
+Humidity    = 53.85 %
+Pressure    = 100.45 kPa
+Illuminance = 416.77 lx
+Height = 64.04 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:41:10  
+  
+INVALID 
+ 
+Shield Temperature = 34.57 C
+RTC Temperature = 34.25 C
+Outer Temperature = 88 C
+  
+Average Temperature = 52.27C
+Status: 80+
+ 
+Humidity    = 53.02 %
+Pressure    = 100.45 kPa
+Illuminance = 421.29 lx
+Height = 64.03 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:41:50  
+  
+INVALID 
+ 
+Shield Temperature = 34.74 C
+RTC Temperature = 34.25 C
+Outer Temperature = 139 C
+  
+Average Temperature = 69.33C
+Status: 50+
+ 
+Humidity    = 52.56 %
+Pressure    = 100.45 kPa
+Illuminance = 518.71 lx
+Height = 64.02 m
+UV Index = 0.39
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:47:45  
+  
+INVALID 
+ 
+Shield Temperature = 35.04 C
+RTC Temperature = 34.75 C
+Outer Temperature = 75 C
+  
+Average Temperature = 48.26C
+Status: 70+
+ 
+Humidity    = 50.35 %
+Pressure    = 100.45 kPa
+Illuminance = 586.45 lx
+Height = 64.12 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:47:47  
+  
+Location: -6.364509,106.840258 
+ 
+Shield Temperature = 35.01 C
+RTC Temperature = 34.50 C
+Outer Temperature = 75 C
+  
+Average Temperature = 48.17C
+Status: 70+
+ 
+Humidity    = 50.65 %
+Pressure    = 100.46 kPa
+Illuminance = 589.03 lx
+Height = 63.85 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:47:50  
+  
+-6.364509,106.840258 
+ 
+Shield Temperature = 34.94 C
+RTC Temperature = 34.50 C
+Outer Temperature = 76 C
+  
+Average Temperature = 48.48C
+Status: 70+
+ 
+Humidity    = 50.39 %
+Pressure    = 100.46 kPa
+Illuminance = 561.94 lx
+Height = 63.96 m
+UV Index = 0.42
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:47:52  
+  
+-6.364510,106.840258 
+ 
+Shield Temperature = 35.03 C
+RTC Temperature = 34.50 C
+Outer Temperature = 63 C
+  
+Average Temperature = 44.18C
+Status: 60+
+ 
+Humidity    = 50.27 %
+Pressure    = 100.46 kPa
+Illuminance = 568.39 lx
+Height = 63.72 m
+UV Index = 0.39
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:47:55  
+  
+-6.364510,106.840258 
+ 
+Shield Temperature = 34.95 C
+RTC Temperature = 34.50 C
+Outer Temperature = 72 C
+  
+Average Temperature = 47.15C
+Status: 70+
+ 
+Humidity    = 50.41 %
+Pressure    = 100.45 kPa
+Illuminance = 583.87 lx
+Height = 64.01 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:47:57  
+  
+-6.364508,106.840256 
+ 
+Shield Temperature = 34.95 C
+RTC Temperature = 34.50 C
+Outer Temperature = 73 C
+  
+Average Temperature = 47.48C
+Status: 70+
+ 
+Humidity    = 50.56 %
+Pressure    = 100.46 kPa
+Illuminance = 466.45 lx
+Height = 63.75 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:0  
+  
+-6.364508,106.840256 
+ 
+Shield Temperature = 34.95 C
+RTC Temperature = 34.50 C
+Outer Temperature = 73 C
+  
+Average Temperature = 47.48C
+Status: 70+
+ 
+Humidity    = 50.44 %
+Pressure    = 100.46 kPa
+Illuminance = 616.13 lx
+Height = 63.89 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:2  
+  
+-6.364507,106.840252 
+ 
+Shield Temperature = 34.95 C
+RTC Temperature = 34.50 C
+Outer Temperature = 62 C
+  
+Average Temperature = 43.82C
+Status: 60+
+ 
+Humidity    = 50.30 %
+Pressure    = 100.46 kPa
+Illuminance = 614.19 lx
+Height = 63.47 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:5  
+  
+-6.364507,106.840252 
+ 
+Shield Temperature = 34.95 C
+RTC Temperature = 34.50 C
+Outer Temperature = 60 C
+  
+Average Temperature = 43.15C
+Status: 50+
+ 
+Humidity    = 50.44 %
+Pressure    = 100.46 kPa
+Illuminance = 616.13 lx
+Height = 63.76 m
+UV Index = 0.58
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:7  
+  
+-6.364502,106.840248 
+ 
+Shield Temperature = 34.99 C
+RTC Temperature = 34.50 C
+Outer Temperature = 73 C
+  
+Average Temperature = 47.50C
+Status: 70+
+ 
+Humidity    = 50.55 %
+Pressure    = 100.46 kPa
+Illuminance = 616.13 lx
+Height = 63.91 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:10  
+  
+-6.364502,106.840248 
+ 
+Shield Temperature = 34.95 C
+RTC Temperature = 34.50 C
+Outer Temperature = 77 C
+  
+Average Temperature = 48.82C
+Status: 70+
+ 
+Humidity    = 50.26 %
+Pressure    = 100.46 kPa
+Illuminance = 615.48 lx
+Height = 63.89 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:12  
+  
+-6.364500,106.840246 
+ 
+Shield Temperature = 34.97 C
+RTC Temperature = 34.50 C
+Outer Temperature = 67 C
+  
+Average Temperature = 45.49C
+Status: 60+
+ 
+Humidity    = 50.03 %
+Pressure    = 100.46 kPa
+Illuminance = 614.84 lx
+Height = 63.74 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:15  
+  
+-6.364500,106.840246 
+ 
+Shield Temperature = 34.95 C
+RTC Temperature = 34.50 C
+Outer Temperature = 73 C
+  
+Average Temperature = 47.48C
+Status: 70+
+ 
+Humidity    = 49.88 %
+Pressure    = 100.46 kPa
+Illuminance = 615.48 lx
+Height = 63.85 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:17  
+  
+Location: -6.364500,106.840246 
+ 
+Shield Temperature = 35.01 C
+RTC Temperature = 34.50 C
+Outer Temperature = 75 C
+  
+Average Temperature = 48.17C
+Status: 70+
+ 
+Humidity    = 49.98 %
+Pressure    = 100.46 kPa
+Illuminance = 616.77 lx
+Height = 63.73 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:20  
+  
+-6.364500,106.840246 
+ 
+Shield Temperature = 34.95 C
+RTC Temperature = 34.50 C
+Outer Temperature = 77 C
+  
+Average Temperature = 48.82C
+Status: 70+
+ 
+Humidity    = 50.21 %
+Pressure    = 100.46 kPa
+Illuminance = 616.77 lx
+Height = 63.77 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:22  
+  
+Location: -6.364500,106.840246 
+ 
+Shield Temperature = 34.94 C
+RTC Temperature = 34.50 C
+Outer Temperature = 74 C
+  
+Average Temperature = 47.81C
+Status: 70+
+ 
+Humidity    = 50.11 %
+Pressure    = 100.46 kPa
+Illuminance = 615.48 lx
+Height = 63.85 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:25  
+  
+-6.364500,106.840246 
+ 
+Shield Temperature = 34.88 C
+RTC Temperature = 34.50 C
+Outer Temperature = 73 C
+  
+Average Temperature = 47.46C
+Status: 70+
+ 
+Humidity    = 49.94 %
+Pressure    = 100.45 kPa
+Illuminance = 616.13 lx
+Height = 64.06 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:27  
+  
+-6.364500,106.840246 
+ 
+Shield Temperature = 34.95 C
+RTC Temperature = 34.50 C
+Outer Temperature = 74 C
+  
+Average Temperature = 47.82C
+Status: 70+
+ 
+Humidity    = 49.89 %
+Pressure    = 100.45 kPa
+Illuminance = 613.55 lx
+Height = 64.06 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:30  
+  
+-6.364500,106.840246 
+ 
+Shield Temperature = 34.92 C
+RTC Temperature = 34.50 C
+Outer Temperature = 74 C
+  
+Average Temperature = 47.81C
+Status: 70+
+ 
+Humidity    = 50.10 %
+Pressure    = 100.46 kPa
+Illuminance = 613.55 lx
+Height = 63.92 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:32  
+  
+-6.364500,106.840246 
+ 
+Shield Temperature = 34.94 C
+RTC Temperature = 34.50 C
+Outer Temperature = 70 C
+  
+Average Temperature = 46.48C
+Status: 60+
+ 
+Humidity    = 50.04 %
+Pressure    = 100.46 kPa
+Illuminance = 612.26 lx
+Height = 63.82 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:35  
+  
+-6.364500,106.840246 
+ 
+Shield Temperature = 34.88 C
+RTC Temperature = 34.50 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.13C
+Status: 60+
+ 
+Humidity    = 49.89 %
+Pressure    = 100.46 kPa
+Illuminance = 607.10 lx
+Height = 63.58 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:37  
+  
+-6.364500,106.840246 
+ 
+Shield Temperature = 34.90 C
+RTC Temperature = 34.50 C
+Outer Temperature = 75 C
+  
+Average Temperature = 48.13C
+Status: 70+
+ 
+Humidity    = 49.93 %
+Pressure    = 100.46 kPa
+Illuminance = 598.71 lx
+Height = 63.84 m
+UV Index = 0.42
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:40  
+  
+-6.364500,106.840246 
+ 
+Shield Temperature = 34.88 C
+RTC Temperature = 34.50 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.79C
+Status: 70+
+ 
+Humidity    = 50.14 %
+Pressure    = 100.46 kPa
+Illuminance = 560.00 lx
+Height = 63.60 m
+UV Index = 0.35
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:42  
+  
+-6.364500,106.840246 
+ 
+Shield Temperature = 34.90 C
+RTC Temperature = 34.50 C
+Outer Temperature = 58 C
+  
+Average Temperature = 42.47C
+Status: 50+
+ 
+Humidity    = 50.18 %
+Pressure    = 100.45 kPa
+Illuminance = 494.84 lx
+Height = 64.10 m
+UV Index = 0.39
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:45  
+  
+-6.364500,106.840246 
+ 
+Shield Temperature = 34.86 C
+RTC Temperature = 34.50 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.79C
+Status: 70+
+ 
+Humidity    = 49.90 %
+Pressure    = 100.46 kPa
+Illuminance = 518.71 lx
+Height = 63.84 m
+UV Index = 0.35
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:47  
+  
+-6.364499,106.840235 
+ 
+Shield Temperature = 34.90 C
+RTC Temperature = 34.50 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.80C
+Status: 70+
+ 
+Humidity    = 49.71 %
+Pressure    = 100.46 kPa
+Illuminance = 520.65 lx
+Height = 63.68 m
+UV Index = 0.42
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:50  
+  
+-6.364499,106.840235 
+ 
+Shield Temperature = 34.94 C
+RTC Temperature = 34.50 C
+Outer Temperature = 70 C
+  
+Average Temperature = 46.48C
+Status: 60+
+ 
+Humidity    = 49.97 %
+Pressure    = 100.46 kPa
+Illuminance = 509.68 lx
+Height = 63.94 m
+UV Index = 0.32
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:52  
+  
+-6.364502,106.840237 
+ 
+Shield Temperature = 34.92 C
+RTC Temperature = 34.50 C
+Outer Temperature = 79 C
+  
+Average Temperature = 49.47C
+Status: 70+
+ 
+Humidity    = 50.15 %
+Pressure    = 100.46 kPa
+Illuminance = 454.84 lx
+Height = 63.74 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:55  
+  
+-6.364502,106.840237 
+ 
+Shield Temperature = 34.92 C
+RTC Temperature = 34.50 C
+Outer Temperature = 72 C
+  
+Average Temperature = 47.14C
+Status: 70+
+ 
+Humidity    = 50.45 %
+Pressure    = 100.46 kPa
+Illuminance = 541.29 lx
+Height = 63.84 m
+UV Index = 0.42
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:48:57  
+  
+Location: -6.364501,106.840237 
+ 
+Shield Temperature = 34.95 C
+RTC Temperature = 34.50 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.15C
+Status: 60+
+ 
+Humidity    = 49.74 %
+Pressure    = 100.46 kPa
+Illuminance = 624.52 lx
+Height = 63.57 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:0  
+  
+-6.364501,106.840237 
+ 
+Shield Temperature = 34.95 C
+RTC Temperature = 34.50 C
+Outer Temperature = 68 C
+  
+Average Temperature = 45.82C
+Status: 60+
+ 
+Humidity    = 49.40 %
+Pressure    = 100.46 kPa
+Illuminance = 623.23 lx
+Height = 63.47 m
+UV Index = 0.55
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:2  
+  
+Location: -6.364501,106.840237 
+ 
+Shield Temperature = 34.99 C
+RTC Temperature = 34.50 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.16C
+Status: 60+
+ 
+Humidity    = 49.50 %
+Pressure    = 100.46 kPa
+Illuminance = 624.52 lx
+Height = 63.84 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:5  
+  
+-6.364501,106.840237 
+ 
+Shield Temperature = 34.95 C
+RTC Temperature = 34.50 C
+Outer Temperature = 74 C
+  
+Average Temperature = 47.82C
+Status: 70+
+ 
+Humidity    = 49.81 %
+Pressure    = 100.46 kPa
+Illuminance = 618.71 lx
+Height = 63.97 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:7  
+  
+-6.364501,106.840237 
+ 
+Shield Temperature = 35.01 C
+RTC Temperature = 34.50 C
+Outer Temperature = 65 C
+  
+Average Temperature = 44.84C
+Status: 60+
+ 
+Humidity    = 49.83 %
+Pressure    = 100.46 kPa
+Illuminance = 618.06 lx
+Height = 63.81 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:10  
+  
+-6.364501,106.840237 
+ 
+Shield Temperature = 34.97 C
+RTC Temperature = 34.50 C
+Outer Temperature = 75 C
+  
+Average Temperature = 48.16C
+Status: 70+
+ 
+Humidity    = 49.67 %
+Pressure    = 100.45 kPa
+Illuminance = 618.71 lx
+Height = 64.05 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:12  
+  
+-6.364511,106.840238 
+ 
+Shield Temperature = 35.01 C
+RTC Temperature = 34.50 C
+Outer Temperature = 75 C
+  
+Average Temperature = 48.17C
+Status: 70+
+ 
+Humidity    = 49.62 %
+Pressure    = 100.46 kPa
+Illuminance = 618.06 lx
+Height = 63.94 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:15  
+  
+-6.364511,106.840238 
+ 
+Shield Temperature = 35.04 C
+RTC Temperature = 34.50 C
+Outer Temperature = 74 C
+  
+Average Temperature = 47.85C
+Status: 70+
+ 
+Humidity    = 49.67 %
+Pressure    = 100.46 kPa
+Illuminance = 616.77 lx
+Height = 63.88 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:17  
+  
+-6.364517,106.840241 
+ 
+Shield Temperature = 35.08 C
+RTC Temperature = 34.50 C
+Outer Temperature = 68 C
+  
+Average Temperature = 45.86C
+Status: 60+
+ 
+Humidity    = 49.55 %
+Pressure    = 100.46 kPa
+Illuminance = 617.42 lx
+Height = 63.64 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:20  
+  
+-6.364517,106.840241 
+ 
+Shield Temperature = 35.08 C
+RTC Temperature = 34.50 C
+Outer Temperature = 62 C
+  
+Average Temperature = 43.86C
+Status: 60+
+ 
+Humidity    = 49.72 %
+Pressure    = 100.46 kPa
+Illuminance = 616.77 lx
+Height = 63.98 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:22  
+  
+-6.364523,106.840245 
+ 
+Shield Temperature = 35.08 C
+RTC Temperature = 34.50 C
+Outer Temperature = 76 C
+  
+Average Temperature = 48.53C
+Status: 70+
+ 
+Humidity    = 49.73 %
+Pressure    = 100.46 kPa
+Illuminance = 618.06 lx
+Height = 63.75 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:25  
+  
+-6.364523,106.840245 
+ 
+Shield Temperature = 35.10 C
+RTC Temperature = 34.50 C
+Outer Temperature = 75 C
+  
+Average Temperature = 48.20C
+Status: 70+
+ 
+Humidity    = 49.63 %
+Pressure    = 100.46 kPa
+Illuminance = 618.06 lx
+Height = 63.96 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:27  
+  
+-6.364530,106.840250 
+ 
+Shield Temperature = 35.10 C
+RTC Temperature = 34.50 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.87C
+Status: 70+
+ 
+Humidity    = 49.53 %
+Pressure    = 100.45 kPa
+Illuminance = 618.06 lx
+Height = 64.07 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:30  
+  
+-6.364530,106.840250 
+ 
+Shield Temperature = 35.10 C
+RTC Temperature = 34.50 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.87C
+Status: 70+
+ 
+Humidity    = 49.55 %
+Pressure    = 100.46 kPa
+Illuminance = 618.06 lx
+Height = 63.75 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:32  
+  
+-6.364535,106.840252 
+ 
+Shield Temperature = 35.12 C
+RTC Temperature = 34.50 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.21C
+Status: 60+
+ 
+Humidity    = 49.56 %
+Pressure    = 100.46 kPa
+Illuminance = 618.06 lx
+Height = 63.79 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:35  
+  
+-6.364535,106.840252 
+ 
+Shield Temperature = 35.12 C
+RTC Temperature = 34.50 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.87C
+Status: 70+
+ 
+Humidity    = 49.83 %
+Pressure    = 100.46 kPa
+Illuminance = 617.42 lx
+Height = 63.97 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:37  
+  
+-6.364541,106.840253 
+ 
+Shield Temperature = 35.13 C
+RTC Temperature = 34.50 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.88C
+Status: 70+
+ 
+Humidity    = 49.80 %
+Pressure    = 100.46 kPa
+Illuminance = 617.42 lx
+Height = 63.87 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:40  
+  
+-6.364541,106.840253 
+ 
+Shield Temperature = 35.15 C
+RTC Temperature = 34.50 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.88C
+Status: 70+
+ 
+Humidity    = 49.86 %
+Pressure    = 100.46 kPa
+Illuminance = 618.06 lx
+Height = 63.69 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:42  
+  
+-6.364546,106.840253 
+ 
+Shield Temperature = 35.15 C
+RTC Temperature = 34.50 C
+Outer Temperature = 58 C
+  
+Average Temperature = 42.55C
+Status: 50+
+ 
+Humidity    = 49.60 %
+Pressure    = 100.46 kPa
+Illuminance = 618.06 lx
+Height = 63.91 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:45  
+  
+-6.364546,106.840253 
+ 
+Shield Temperature = 35.17 C
+RTC Temperature = 34.50 C
+Outer Temperature = 71 C
+  
+Average Temperature = 46.89C
+Status: 70+
+ 
+Humidity    = 49.62 %
+Pressure    = 100.46 kPa
+Illuminance = 616.77 lx
+Height = 63.90 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:47  
+  
+-6.364551,106.840252 
+ 
+Shield Temperature = 35.19 C
+RTC Temperature = 34.50 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.23C
+Status: 60+
+ 
+Humidity    = 49.79 %
+Pressure    = 100.45 kPa
+Illuminance = 618.06 lx
+Height = 64.05 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:50  
+  
+-6.364551,106.840252 
+ 
+Shield Temperature = 35.24 C
+RTC Temperature = 34.50 C
+Outer Temperature = 73 C
+  
+Average Temperature = 47.58C
+Status: 70+
+ 
+Humidity    = 49.57 %
+Pressure    = 100.46 kPa
+Illuminance = 617.42 lx
+Height = 63.81 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:52  
+  
+-6.364551,106.840252 
+ 
+Shield Temperature = 35.24 C
+RTC Temperature = 34.50 C
+Outer Temperature = 77 C
+  
+Average Temperature = 48.91C
+Status: 70+
+ 
+Humidity    = 49.81 %
+Pressure    = 100.46 kPa
+Illuminance = 617.42 lx
+Height = 63.82 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:55  
+  
+-6.364551,106.840252 
+ 
+Shield Temperature = 35.21 C
+RTC Temperature = 34.75 C
+Outer Temperature = 76 C
+  
+Average Temperature = 48.65C
+Status: 70+
+ 
+Humidity    = 49.48 %
+Pressure    = 100.46 kPa
+Illuminance = 618.06 lx
+Height = 63.68 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:49:57  
+  
+-6.364553,106.840251 
+ 
+Shield Temperature = 35.26 C
+RTC Temperature = 34.75 C
+Outer Temperature = 74 C
+  
+Average Temperature = 48.00C
+Status: 70+
+ 
+Humidity    = 49.85 %
+Pressure    = 100.46 kPa
+Illuminance = 618.06 lx
+Height = 63.66 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:0  
+  
+-6.364553,106.840251 
+ 
+Shield Temperature = 35.24 C
+RTC Temperature = 34.75 C
+Outer Temperature = 71 C
+  
+Average Temperature = 47.00C
+Status: 70+
+ 
+Humidity    = 49.57 %
+Pressure    = 100.46 kPa
+Illuminance = 619.35 lx
+Height = 63.81 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:2  
+  
+-6.364556,106.840251 
+ 
+Shield Temperature = 35.24 C
+RTC Temperature = 34.75 C
+Outer Temperature = 64 C
+  
+Average Temperature = 44.66C
+Status: 60+
+ 
+Humidity    = 49.43 %
+Pressure    = 100.46 kPa
+Illuminance = 620.00 lx
+Height = 63.70 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:5  
+  
+-6.364556,106.840251 
+ 
+Shield Temperature = 35.26 C
+RTC Temperature = 34.75 C
+Outer Temperature = 60 C
+  
+Average Temperature = 43.34C
+Status: 50+
+ 
+Humidity    = 49.55 %
+Pressure    = 100.46 kPa
+Illuminance = 619.35 lx
+Height = 63.82 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:7  
+  
+-6.364559,106.840251 
+ 
+Shield Temperature = 35.30 C
+RTC Temperature = 34.75 C
+Outer Temperature = 71 C
+  
+Average Temperature = 47.02C
+Status: 70+
+ 
+Humidity    = 49.75 %
+Pressure    = 100.46 kPa
+Illuminance = 619.35 lx
+Height = 63.75 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:10  
+  
+-6.364559,106.840251 
+ 
+Shield Temperature = 35.32 C
+RTC Temperature = 34.75 C
+Outer Temperature = 71 C
+  
+Average Temperature = 47.02C
+Status: 70+
+ 
+Humidity    = 49.63 %
+Pressure    = 100.46 kPa
+Illuminance = 619.35 lx
+Height = 63.85 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:12  
+  
+-6.364562,106.840251 
+ 
+Shield Temperature = 35.32 C
+RTC Temperature = 34.75 C
+Outer Temperature = 73 C
+  
+Average Temperature = 47.69C
+Status: 70+
+ 
+Humidity    = 49.75 %
+Pressure    = 100.46 kPa
+Illuminance = 620.00 lx
+Height = 63.79 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:15  
+  
+-6.364562,106.840251 
+ 
+Shield Temperature = 35.33 C
+RTC Temperature = 34.75 C
+Outer Temperature = 75 C
+  
+Average Temperature = 48.36C
+Status: 70+
+ 
+Humidity    = 49.81 %
+Pressure    = 100.46 kPa
+Illuminance = 620.00 lx
+Height = 63.61 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:17  
+  
+-6.364563,106.840249 
+ 
+Shield Temperature = 35.33 C
+RTC Temperature = 34.75 C
+Outer Temperature = 67 C
+  
+Average Temperature = 45.69C
+Status: 60+
+ 
+Humidity    = 49.98 %
+Pressure    = 100.46 kPa
+Illuminance = 620.65 lx
+Height = 63.89 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:20  
+  
+-6.364563,106.840249 
+ 
+Shield Temperature = 35.35 C
+RTC Temperature = 34.75 C
+Outer Temperature = 75 C
+  
+Average Temperature = 48.37C
+Status: 70+
+ 
+Humidity    = 49.95 %
+Pressure    = 100.45 kPa
+Illuminance = 619.35 lx
+Height = 64.14 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:22  
+  
+-6.364562,106.840247 
+ 
+Shield Temperature = 35.37 C
+RTC Temperature = 34.75 C
+Outer Temperature = 73 C
+  
+Average Temperature = 47.71C
+Status: 70+
+ 
+Humidity    = 49.86 %
+Pressure    = 100.46 kPa
+Illuminance = 618.71 lx
+Height = 63.59 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:25  
+  
+-6.364562,106.840247 
+ 
+Shield Temperature = 35.41 C
+RTC Temperature = 34.75 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.39C
+Status: 60+
+ 
+Humidity    = 49.92 %
+Pressure    = 100.46 kPa
+Illuminance = 616.77 lx
+Height = 63.75 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:27  
+  
+-6.364563,106.840247 
+ 
+Shield Temperature = 35.42 C
+RTC Temperature = 34.75 C
+Outer Temperature = 73 C
+  
+Average Temperature = 47.72C
+Status: 70+
+ 
+Humidity    = 49.59 %
+Pressure    = 100.46 kPa
+Illuminance = 618.06 lx
+Height = 63.59 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:30  
+  
+-6.364563,106.840247 
+ 
+Shield Temperature = 35.42 C
+RTC Temperature = 34.75 C
+Outer Temperature = 73 C
+  
+Average Temperature = 47.72C
+Status: 70+
+ 
+Humidity    = 49.81 %
+Pressure    = 100.46 kPa
+Illuminance = 594.19 lx
+Height = 63.77 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:32  
+  
+-6.364566,106.840248 
+ 
+Shield Temperature = 35.37 C
+RTC Temperature = 34.75 C
+Outer Temperature = 71 C
+  
+Average Temperature = 47.04C
+Status: 70+
+ 
+Humidity    = 49.69 %
+Pressure    = 100.45 kPa
+Illuminance = 541.29 lx
+Height = 64.06 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:35  
+  
+-6.364566,106.840248 
+ 
+Shield Temperature = 35.39 C
+RTC Temperature = 34.75 C
+Outer Temperature = 62 C
+  
+Average Temperature = 44.05C
+Status: 60+
+ 
+Humidity    = 49.86 %
+Pressure    = 100.46 kPa
+Illuminance = 534.19 lx
+Height = 63.86 m
+UV Index = 0.35
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:37  
+  
+-6.364562,106.840248 
+ 
+Shield Temperature = 35.41 C
+RTC Temperature = 34.75 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.39C
+Status: 60+
+ 
+Humidity    = 49.51 %
+Pressure    = 100.46 kPa
+Illuminance = 614.84 lx
+Height = 63.78 m
+UV Index = 0.55
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:40  
+  
+-6.364562,106.840248 
+ 
+Shield Temperature = 35.41 C
+RTC Temperature = 34.75 C
+Outer Temperature = 64 C
+  
+Average Temperature = 44.72C
+Status: 60+
+ 
+Humidity    = 50.00 %
+Pressure    = 100.46 kPa
+Illuminance = 467.74 lx
+Height = 63.84 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:42  
+  
+-6.364561,106.840254 
+ 
+Shield Temperature = 35.42 C
+RTC Temperature = 34.75 C
+Outer Temperature = 73 C
+  
+Average Temperature = 47.72C
+Status: 70+
+ 
+Humidity    = 49.84 %
+Pressure    = 100.46 kPa
+Illuminance = 494.84 lx
+Height = 63.68 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:45  
+  
+-6.364561,106.840254 
+ 
+Shield Temperature = 35.42 C
+RTC Temperature = 34.75 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.39C
+Status: 60+
+ 
+Humidity    = 49.84 %
+Pressure    = 100.46 kPa
+Illuminance = 527.74 lx
+Height = 63.62 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:47  
+  
+-6.364552,106.840259 
+ 
+Shield Temperature = 35.42 C
+RTC Temperature = 34.75 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.39C
+Status: 60+
+ 
+Humidity    = 49.84 %
+Pressure    = 100.45 kPa
+Illuminance = 599.35 lx
+Height = 64.03 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:50  
+  
+-6.364552,106.840259 
+ 
+Shield Temperature = 35.42 C
+RTC Temperature = 34.75 C
+Outer Temperature = 71 C
+  
+Average Temperature = 47.06C
+Status: 70+
+ 
+Humidity    = 49.92 %
+Pressure    = 100.46 kPa
+Illuminance = 529.68 lx
+Height = 63.73 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:52  
+  
+-6.364548,106.840261 
+ 
+Shield Temperature = 35.41 C
+RTC Temperature = 34.75 C
+Outer Temperature = 94 C
+  
+Average Temperature = 54.72C
+Status: 50+
+ 
+Humidity    = 50.53 %
+Pressure    = 100.46 kPa
+Illuminance = 466.45 lx
+Height = 63.62 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:55  
+  
+-6.364548,106.840261 
+ 
+Shield Temperature = 35.39 C
+RTC Temperature = 34.75 C
+Outer Temperature = 149 C
+  
+Average Temperature = 73.05C
+Status: 50+
+ 
+Humidity    = 50.52 %
+Pressure    = 100.46 kPa
+Illuminance = 516.13 lx
+Height = 63.66 m
+UV Index = 0.42
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:57  
+  
+-6.364548,106.840261 
+ 
+Shield Temperature = 35.37 C
+RTC Temperature = 34.75 C
+Outer Temperature = 262 C
+  
+Average Temperature = 110.71C
+Status: 50+
+ 
+Humidity    = 50.73 %
+Pressure    = 100.46 kPa
+Illuminance = 476.13 lx
+Height = 63.77 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:50:59  
+  
+-6.364548,106.840261 
+ 
+Shield Temperature = 35.39 C
+RTC Temperature = 34.75 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.38C
+Status: 60+
+ 
+Humidity    = 50.62 %
+Pressure    = 100.46 kPa
+Illuminance = 480.00 lx
+Height = 63.66 m
+UV Index = 0.39
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:51:1  
+  
+-6.364548,106.840261 
+ 
+Shield Temperature = 35.33 C
+RTC Temperature = 34.75 C
+Outer Temperature = 0 C
+  
+Average Temperature = 23.36C
+Status: -10
+ 
+Humidity    = 50.48 %
+Pressure    = 100.45 kPa
+Illuminance = 476.13 lx
+Height = 64.13 m
+UV Index = 0.42
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:51:3  
+  
+-6.364548,106.840261 
+ 
+Shield Temperature = 35.33 C
+RTC Temperature = 34.75 C
+Outer Temperature = 329 C
+  
+Average Temperature = 133.03C
+Status: 50+
+ 
+Humidity    = 50.43 %
+Pressure    = 100.46 kPa
+Illuminance = 404.52 lx
+Height = 63.64 m
+UV Index = 0.39
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:51:5  
+  
+-6.364548,106.840261 
+ 
+Shield Temperature = 35.33 C
+RTC Temperature = 34.75 C
+Outer Temperature = 83 C
+  
+Average Temperature = 51.03C
+Status: 80+
+ 
+Humidity    = 50.20 %
+Pressure    = 100.46 kPa
+Illuminance = 614.19 lx
+Height = 63.80 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:51:7  
+  
+-6.364548,106.840261 
+ 
+Shield Temperature = 35.37 C
+RTC Temperature = 34.75 C
+Outer Temperature = 112 C
+  
+Average Temperature = 60.71C
+Status: 50+
+ 
+Humidity    = 50.46 %
+Pressure    = 100.46 kPa
+Illuminance = 197.42 lx
+Height = 63.94 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:52:1  
+  
+Location: Location: INVALID 
+ 
+Shield Temperature = 35.23 C
+RTC Temperature = 34.50 C
+Outer Temperature = 94 C
+  
+Average Temperature = 54.58C
+Status: 50+
+ 
+Humidity    = 50.38 %
+Pressure    = 100.46 kPa
+Illuminance = 636.13 lx
+Height = 63.49 m
+UV Index = 0.42
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:52:18  
+  
+INVALID 
+ 
+Shield Temperature = 35.30 C
+RTC Temperature = 34.75 C
+Outer Temperature = 71 C
+  
+Average Temperature = 47.02C
+Status: 70+
+ 
+Humidity    = 50.19 %
+Pressure    = 100.46 kPa
+Illuminance = 638.06 lx
+Height = 63.31 m
+UV Index = 0.42
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:53:34  
+  
+Location: Location: INVALID 
+ 
+Shield Temperature = 35.32 C
+RTC Temperature = 34.75 C
+Outer Temperature = 58 C
+  
+Average Temperature = 42.69C
+Status: 50+
+ 
+Humidity    = 50.42 %
+Pressure    = 100.46 kPa
+Illuminance = 615.48 lx
+Height = 63.40 m
+UV Index = 0.65
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:57:9  
+  
+INVALID 
+ 
+Shield Temperature = 35.50 C
+RTC Temperature = 34.75 C
+Outer Temperature = 74 C
+  
+Average Temperature = 48.08C
+Status: 70+
+ 
+Humidity    = 49.29 %
+Pressure    = 100.46 kPa
+Illuminance = 409.03 lx
+Height = 63.43 m
+UV Index = 0.65
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:57:20  
+  
+INVALID 
+ 
+Shield Temperature = 35.90 C
+RTC Temperature = 35.00 C
+Outer Temperature = 67 C
+  
+Average Temperature = 45.97C
+Status: 60+
+ 
+Humidity    = 48.89 %
+Pressure    = 100.46 kPa
+Illuminance = 397.42 lx
+Height = 63.47 m
+UV Index = 0.68
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:58:36  
+  
+INVALID 
+ 
+Shield Temperature = 35.90 C
+RTC Temperature = 35.00 C
+Outer Temperature = 71 C
+  
+Average Temperature = 47.30C
+Status: 70+
+ 
+Humidity    = 47.93 %
+Pressure    = 100.47 kPa
+Illuminance = 540.65 lx
+Height = 62.82 m
+UV Index = 0.61
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:58:39  
+  
+INVALID 
+ 
+Shield Temperature = 36.49 C
+RTC Temperature = 35.00 C
+Outer Temperature = 70 C
+  
+Average Temperature = 47.16C
+Status: 60+
+ 
+Humidity    = 48.06 %
+Pressure    = 100.47 kPa
+Illuminance = 439.35 lx
+Height = 62.68 m
+UV Index = 0.61
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:58:41  
+  
+INVALID 
+ 
+Shield Temperature = 36.47 C
+RTC Temperature = 35.00 C
+Outer Temperature = 69 C
+  
+Average Temperature = 46.82C
+Status: 60+
+ 
+Humidity    = 46.71 %
+Pressure    = 100.46 kPa
+Illuminance = 592.90 lx
+Height = 63.29 m
+UV Index = 0.61
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:58:43  
+  
+INVALID 
+ 
+Shield Temperature = 36.49 C
+RTC Temperature = 35.00 C
+Outer Temperature = 67 C
+  
+Average Temperature = 46.16C
+Status: 60+
+ 
+Humidity    = 46.27 %
+Pressure    = 100.46 kPa
+Illuminance = 636.77 lx
+Height = 63.43 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:58:45  
+  
+INVALID 
+ 
+Shield Temperature = 36.55 C
+RTC Temperature = 35.00 C
+Outer Temperature = 74 C
+  
+Average Temperature = 48.52C
+Status: 70+
+ 
+Humidity    = 46.12 %
+Pressure    = 100.47 kPa
+Illuminance = 636.77 lx
+Height = 63.19 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:58:47  
+  
+INVALID 
+ 
+Shield Temperature = 36.51 C
+RTC Temperature = 35.00 C
+Outer Temperature = 73 C
+  
+Average Temperature = 48.17C
+Status: 70+
+ 
+Humidity    = 45.99 %
+Pressure    = 100.46 kPa
+Illuminance = 636.77 lx
+Height = 63.40 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:58:49  
+  
+INVALID 
+ 
+Shield Temperature = 36.55 C
+RTC Temperature = 35.00 C
+Outer Temperature = 38 C
+  
+Average Temperature = 36.52C
+Status: 30+
+ 
+Humidity    = 45.92 %
+Pressure    = 100.46 kPa
+Illuminance = 636.77 lx
+Height = 63.45 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:58:51  
+  
+INVALID 
+ 
+Shield Temperature = 36.58 C
+RTC Temperature = 35.00 C
+Outer Temperature = 68 C
+  
+Average Temperature = 46.53C
+Status: 60+
+ 
+Humidity    = 45.93 %
+Pressure    = 100.46 kPa
+Illuminance = 638.71 lx
+Height = 63.53 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:58:53  
+  
+INVALID 
+ 
+Shield Temperature = 36.57 C
+RTC Temperature = 35.00 C
+Outer Temperature = 68 C
+  
+Average Temperature = 46.52C
+Status: 60+
+ 
+Humidity    = 45.71 %
+Pressure    = 100.46 kPa
+Illuminance = 634.19 lx
+Height = 63.42 m
+UV Index = 0.29
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:58:55  
+  
+INVALID 
+ 
+Shield Temperature = 36.57 C
+RTC Temperature = 35.00 C
+Outer Temperature = 79 C
+  
+Average Temperature = 50.19C
+Status: 70+
+ 
+Humidity    = 45.72 %
+Pressure    = 100.46 kPa
+Illuminance = 632.26 lx
+Height = 63.46 m
+UV Index = 0.32
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:58:57  
+  
+INVALID 
+ 
+Shield Temperature = 36.60 C
+RTC Temperature = 35.00 C
+Outer Temperature = 77 C
+  
+Average Temperature = 49.53C
+Status: 70+
+ 
+Humidity    = 45.81 %
+Pressure    = 100.46 kPa
+Illuminance = 634.19 lx
+Height = 63.78 m
+UV Index = 0.13
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:0  
+  
+INVALID 
+ 
+Shield Temperature = 36.64 C
+RTC Temperature = 35.00 C
+Outer Temperature = 77 C
+  
+Average Temperature = 49.55C
+Status: 70+
+ 
+Humidity    = 45.71 %
+Pressure    = 100.46 kPa
+Illuminance = 634.19 lx
+Height = 63.24 m
+UV Index = 0.13
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:2  
+  
+INVALID 
+ 
+Shield Temperature = 36.64 C
+RTC Temperature = 35.00 C
+Outer Temperature = 50 C
+  
+Average Temperature = 40.55C
+Status: 40+
+ 
+Humidity    = 45.71 %
+Pressure    = 100.46 kPa
+Illuminance = 632.90 lx
+Height = 63.71 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:4  
+  
+INVALID 
+ 
+Shield Temperature = 36.67 C
+RTC Temperature = 35.00 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.89C
+Status: 60+
+ 
+Humidity    = 45.64 %
+Pressure    = 100.46 kPa
+Illuminance = 634.84 lx
+Height = 63.68 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:6  
+  
+INVALID 
+ 
+Shield Temperature = 36.73 C
+RTC Temperature = 35.00 C
+Outer Temperature = 61 C
+  
+Average Temperature = 44.24C
+Status: 60+
+ 
+Humidity    = 45.48 %
+Pressure    = 100.46 kPa
+Illuminance = 634.19 lx
+Height = 63.39 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:8  
+  
+INVALID 
+ 
+Shield Temperature = 36.76 C
+RTC Temperature = 35.00 C
+Outer Temperature = 82 C
+  
+Average Temperature = 51.25C
+Status: 80+
+ 
+Humidity    = 45.56 %
+Pressure    = 100.46 kPa
+Illuminance = 634.19 lx
+Height = 63.57 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:10  
+  
+INVALID 
+ 
+Shield Temperature = 36.76 C
+RTC Temperature = 35.00 C
+Outer Temperature = 83 C
+  
+Average Temperature = 51.59C
+Status: 80+
+ 
+Humidity    = 45.48 %
+Pressure    = 100.46 kPa
+Illuminance = 634.84 lx
+Height = 63.25 m
+UV Index = 0.23
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:12  
+  
+INVALID 
+ 
+Shield Temperature = 36.78 C
+RTC Temperature = 35.00 C
+Outer Temperature = 82 C
+  
+Average Temperature = 51.26C
+Status: 80+
+ 
+Humidity    = 45.54 %
+Pressure    = 100.46 kPa
+Illuminance = 634.84 lx
+Height = 63.47 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:14  
+  
+INVALID 
+ 
+Shield Temperature = 36.85 C
+RTC Temperature = 35.00 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.95C
+Status: 60+
+ 
+Humidity    = 45.19 %
+Pressure    = 100.46 kPa
+Illuminance = 634.19 lx
+Height = 63.47 m
+UV Index = 0.13
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:16  
+  
+INVALID 
+ 
+Shield Temperature = 36.85 C
+RTC Temperature = 35.00 C
+Outer Temperature = 60 C
+  
+Average Temperature = 43.95C
+Status: 50+
+ 
+Humidity    = 45.25 %
+Pressure    = 100.46 kPa
+Illuminance = 636.13 lx
+Height = 63.32 m
+UV Index = 0.13
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:18  
+  
+INVALID 
+ 
+Shield Temperature = 36.82 C
+RTC Temperature = 35.00 C
+Outer Temperature = 81 C
+  
+Average Temperature = 50.94C
+Status: 80+
+ 
+Humidity    = 45.35 %
+Pressure    = 100.46 kPa
+Illuminance = 634.19 lx
+Height = 63.42 m
+UV Index = 0.13
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:21  
+  
+INVALID 
+ 
+Shield Temperature = 36.85 C
+RTC Temperature = 35.00 C
+Outer Temperature = 66 C
+  
+Average Temperature = 45.95C
+Status: 60+
+ 
+Humidity    = 45.43 %
+Pressure    = 100.46 kPa
+Illuminance = 636.13 lx
+Height = 63.56 m
+UV Index = 0.13
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:23  
+  
+INVALID 
+ 
+Shield Temperature = 36.89 C
+RTC Temperature = 35.00 C
+Outer Temperature = 73 C
+  
+Average Temperature = 48.30C
+Status: 70+
+ 
+Humidity    = 45.62 %
+Pressure    = 100.46 kPa
+Illuminance = 635.48 lx
+Height = 63.48 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:25  
+  
+INVALID 
+ 
+Shield Temperature = 36.89 C
+RTC Temperature = 35.00 C
+Outer Temperature = 71 C
+  
+Average Temperature = 47.63C
+Status: 70+
+ 
+Humidity    = 45.45 %
+Pressure    = 100.47 kPa
+Illuminance = 638.06 lx
+Height = 63.23 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:27  
+  
+INVALID 
+ 
+Shield Temperature = 36.96 C
+RTC Temperature = 35.00 C
+Outer Temperature = 68 C
+  
+Average Temperature = 46.65C
+Status: 60+
+ 
+Humidity    = 45.50 %
+Pressure    = 100.46 kPa
+Illuminance = 634.19 lx
+Height = 63.50 m
+UV Index = 0.55
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:29  
+  
+INVALID 
+ 
+Shield Temperature = 36.95 C
+RTC Temperature = 35.00 C
+Outer Temperature = 62 C
+  
+Average Temperature = 44.65C
+Status: 60+
+ 
+Humidity    = 45.42 %
+Pressure    = 100.46 kPa
+Illuminance = 634.84 lx
+Height = 63.56 m
+UV Index = 0.58
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:31  
+  
+INVALID 
+ 
+Shield Temperature = 36.98 C
+RTC Temperature = 35.25 C
+Outer Temperature = 66 C
+  
+Average Temperature = 46.08C
+Status: 60+
+ 
+Humidity    = 45.33 %
+Pressure    = 100.46 kPa
+Illuminance = 634.84 lx
+Height = 63.25 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:33  
+  
+INVALID 
+ 
+Shield Temperature = 37.00 C
+RTC Temperature = 35.25 C
+Outer Temperature = 67 C
+  
+Average Temperature = 46.42C
+Status: 60+
+ 
+Humidity    = 45.30 %
+Pressure    = 100.46 kPa
+Illuminance = 633.55 lx
+Height = 63.43 m
+UV Index = 0.55
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:35  
+  
+INVALID 
+ 
+Shield Temperature = 37.05 C
+RTC Temperature = 35.25 C
+Outer Temperature = 71 C
+  
+Average Temperature = 47.77C
+Status: 70+
+ 
+Humidity    = 45.20 %
+Pressure    = 100.46 kPa
+Illuminance = 634.19 lx
+Height = 63.37 m
+UV Index = 0.55
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:37  
+  
+INVALID 
+ 
+Shield Temperature = 37.09 C
+RTC Temperature = 35.25 C
+Outer Temperature = 69 C
+  
+Average Temperature = 47.11C
+Status: 60+
+ 
+Humidity    = 45.19 %
+Pressure    = 100.46 kPa
+Illuminance = 634.19 lx
+Height = 63.56 m
+UV Index = 0.55
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:40  
+  
+INVALID 
+ 
+Shield Temperature = 37.13 C
+RTC Temperature = 35.25 C
+Outer Temperature = 65 C
+  
+Average Temperature = 45.79C
+Status: 60+
+ 
+Humidity    = 45.00 %
+Pressure    = 100.46 kPa
+Illuminance = 633.55 lx
+Height = 63.48 m
+UV Index = 0.55
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:42  
+  
+INVALID 
+ 
+Shield Temperature = 37.14 C
+RTC Temperature = 35.25 C
+Outer Temperature = 65 C
+  
+Average Temperature = 45.80C
+Status: 60+
+ 
+Humidity    = 44.93 %
+Pressure    = 100.47 kPa
+Illuminance = 632.90 lx
+Height = 63.21 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:44  
+  
+INVALID 
+ 
+Shield Temperature = 37.14 C
+RTC Temperature = 35.25 C
+Outer Temperature = 68 C
+  
+Average Temperature = 46.80C
+Status: 60+
+ 
+Humidity    = 44.91 %
+Pressure    = 100.46 kPa
+Illuminance = 632.90 lx
+Height = 63.28 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:46  
+  
+INVALID 
+ 
+Shield Temperature = 37.18 C
+RTC Temperature = 35.25 C
+Outer Temperature = 61 C
+  
+Average Temperature = 44.48C
+Status: 60+
+ 
+Humidity    = 45.00 %
+Pressure    = 100.47 kPa
+Illuminance = 632.26 lx
+Height = 63.01 m
+UV Index = 0.55
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:48  
+  
+INVALID 
+ 
+Shield Temperature = 37.24 C
+RTC Temperature = 35.25 C
+Outer Temperature = 71 C
+  
+Average Temperature = 47.83C
+Status: 70+
+ 
+Humidity    = 44.90 %
+Pressure    = 100.46 kPa
+Illuminance = 632.26 lx
+Height = 63.34 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:50  
+  
+INVALID 
+ 
+Shield Temperature = 37.25 C
+RTC Temperature = 35.25 C
+Outer Temperature = 66 C
+  
+Average Temperature = 46.17C
+Status: 60+
+ 
+Humidity    = 45.27 %
+Pressure    = 100.46 kPa
+Illuminance = 630.97 lx
+Height = 63.34 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:52  
+  
+INVALID 
+ 
+Shield Temperature = 37.29 C
+RTC Temperature = 35.25 C
+Outer Temperature = 67 C
+  
+Average Temperature = 46.51C
+Status: 60+
+ 
+Humidity    = 45.16 %
+Pressure    = 100.46 kPa
+Illuminance = 630.32 lx
+Height = 63.35 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:54  
+  
+INVALID 
+ 
+Shield Temperature = 37.31 C
+RTC Temperature = 35.25 C
+Outer Temperature = 68 C
+  
+Average Temperature = 46.85C
+Status: 60+
+ 
+Humidity    = 45.16 %
+Pressure    = 100.46 kPa
+Illuminance = 629.68 lx
+Height = 63.57 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:56  
+  
+INVALID 
+ 
+Shield Temperature = 37.34 C
+RTC Temperature = 35.25 C
+Outer Temperature = 68 C
+  
+Average Temperature = 46.86C
+Status: 60+
+ 
+Humidity    = 45.05 %
+Pressure    = 100.46 kPa
+Illuminance = 630.97 lx
+Height = 63.43 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 15:59:58  
+  
+INVALID 
+ 
+Shield Temperature = 37.34 C
+RTC Temperature = 35.25 C
+Outer Temperature = 67 C
+  
+Average Temperature = 46.53C
+Status: 60+
+ 
+Humidity    = 45.06 %
+Pressure    = 100.46 kPa
+Illuminance = 629.68 lx
+Height = 63.31 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:1  
+  
+INVALID 
+ 
+Shield Temperature = 37.38 C
+RTC Temperature = 35.25 C
+Outer Temperature = 66 C
+  
+Average Temperature = 46.21C
+Status: 60+
+ 
+Humidity    = 44.94 %
+Pressure    = 100.46 kPa
+Illuminance = 629.68 lx
+Height = 63.68 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:3  
+  
+INVALID 
+ 
+Shield Temperature = 37.34 C
+RTC Temperature = 35.25 C
+Outer Temperature = 68 C
+  
+Average Temperature = 46.86C
+Status: 60+
+ 
+Humidity    = 45.04 %
+Pressure    = 100.46 kPa
+Illuminance = 623.23 lx
+Height = 63.50 m
+UV Index = 0.45
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:5  
+  
+INVALID 
+ 
+Shield Temperature = 37.33 C
+RTC Temperature = 35.25 C
+Outer Temperature = 67 C
+  
+Average Temperature = 46.53C
+Status: 60+
+ 
+Humidity    = 45.02 %
+Pressure    = 100.46 kPa
+Illuminance = 624.52 lx
+Height = 63.63 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:7  
+  
+INVALID 
+ 
+Shield Temperature = 37.33 C
+RTC Temperature = 35.25 C
+Outer Temperature = 60 C
+  
+Average Temperature = 44.19C
+Status: 50+
+ 
+Humidity    = 44.92 %
+Pressure    = 100.46 kPa
+Illuminance = 632.26 lx
+Height = 63.35 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:9  
+  
+INVALID 
+ 
+Shield Temperature = 37.36 C
+RTC Temperature = 35.25 C
+Outer Temperature = 60 C
+  
+Average Temperature = 44.20C
+Status: 50+
+ 
+Humidity    = 44.80 %
+Pressure    = 100.46 kPa
+Illuminance = 637.42 lx
+Height = 63.57 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:11  
+  
+INVALID 
+ 
+Shield Temperature = 37.40 C
+RTC Temperature = 35.25 C
+Outer Temperature = 60 C
+  
+Average Temperature = 44.22C
+Status: 50+
+ 
+Humidity    = 44.56 %
+Pressure    = 100.46 kPa
+Illuminance = 636.77 lx
+Height = 63.56 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:13  
+  
+INVALID 
+ 
+Shield Temperature = 37.40 C
+RTC Temperature = 35.25 C
+Outer Temperature = 69 C
+  
+Average Temperature = 47.22C
+Status: 60+
+ 
+Humidity    = 44.74 %
+Pressure    = 100.46 kPa
+Illuminance = 637.42 lx
+Height = 63.51 m
+UV Index = 0.55
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:15  
+  
+INVALID 
+ 
+Shield Temperature = 37.43 C
+RTC Temperature = 35.25 C
+Outer Temperature = 73 C
+  
+Average Temperature = 48.56C
+Status: 70+
+ 
+Humidity    = 44.41 %
+Pressure    = 100.46 kPa
+Illuminance = 637.42 lx
+Height = 63.37 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:17  
+  
+INVALID 
+ 
+Shield Temperature = 37.45 C
+RTC Temperature = 35.25 C
+Outer Temperature = 70 C
+  
+Average Temperature = 47.57C
+Status: 60+
+ 
+Humidity    = 44.27 %
+Pressure    = 100.46 kPa
+Illuminance = 636.77 lx
+Height = 63.36 m
+UV Index = 0.55
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:19  
+  
+INVALID 
+ 
+Shield Temperature = 37.47 C
+RTC Temperature = 35.25 C
+Outer Temperature = 73 C
+  
+Average Temperature = 48.57C
+Status: 70+
+ 
+Humidity    = 44.55 %
+Pressure    = 100.46 kPa
+Illuminance = 637.42 lx
+Height = 63.49 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:22  
+  
+INVALID 
+ 
+Shield Temperature = 37.51 C
+RTC Temperature = 35.25 C
+Outer Temperature = 70 C
+  
+Average Temperature = 47.59C
+Status: 60+
+ 
+Humidity    = 44.34 %
+Pressure    = 100.46 kPa
+Illuminance = 636.77 lx
+Height = 63.38 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:24  
+  
+INVALID 
+ 
+Shield Temperature = 37.51 C
+RTC Temperature = 35.25 C
+Outer Temperature = 63 C
+  
+Average Temperature = 45.25C
+Status: 60+
+ 
+Humidity    = 44.26 %
+Pressure    = 100.46 kPa
+Illuminance = 637.42 lx
+Height = 63.63 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:26  
+  
+INVALID 
+ 
+Shield Temperature = 37.49 C
+RTC Temperature = 35.25 C
+Outer Temperature = 69 C
+  
+Average Temperature = 47.25C
+Status: 60+
+ 
+Humidity    = 44.24 %
+Pressure    = 100.46 kPa
+Illuminance = 636.13 lx
+Height = 63.40 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:28  
+  
+INVALID 
+ 
+Shield Temperature = 37.51 C
+RTC Temperature = 35.25 C
+Outer Temperature = 65 C
+  
+Average Temperature = 45.92C
+Status: 60+
+ 
+Humidity    = 44.22 %
+Pressure    = 100.46 kPa
+Illuminance = 637.42 lx
+Height = 63.34 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:30  
+  
+INVALID 
+ 
+Shield Temperature = 37.58 C
+RTC Temperature = 35.25 C
+Outer Temperature = 68 C
+  
+Average Temperature = 46.94C
+Status: 60+
+ 
+Humidity    = 44.00 %
+Pressure    = 100.46 kPa
+Illuminance = 637.42 lx
+Height = 63.28 m
+UV Index = 0.55
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:32  
+  
+INVALID 
+ 
+Shield Temperature = 37.56 C
+RTC Temperature = 35.25 C
+Outer Temperature = 70 C
+  
+Average Temperature = 47.60C
+Status: 60+
+ 
+Humidity    = 44.07 %
+Pressure    = 100.46 kPa
+Illuminance = 637.42 lx
+Height = 63.36 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:34  
+  
+INVALID 
+ 
+Shield Temperature = 37.62 C
+RTC Temperature = 35.50 C
+Outer Temperature = 73 C
+  
+Average Temperature = 48.71C
+Status: 70+
+ 
+Humidity    = 44.10 %
+Pressure    = 100.46 kPa
+Illuminance = 625.16 lx
+Height = 63.54 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:36  
+  
+INVALID 
+ 
+Shield Temperature = 37.65 C
+RTC Temperature = 35.50 C
+Outer Temperature = 70 C
+  
+Average Temperature = 47.72C
+Status: 60+
+ 
+Humidity    = 43.78 %
+Pressure    = 100.46 kPa
+Illuminance = 636.13 lx
+Height = 63.44 m
+UV Index = 0.58
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:38  
+  
+INVALID 
+ 
+Shield Temperature = 37.63 C
+RTC Temperature = 35.50 C
+Outer Temperature = 68 C
+  
+Average Temperature = 47.04C
+Status: 60+
+ 
+Humidity    = 43.88 %
+Pressure    = 100.46 kPa
+Illuminance = 627.74 lx
+Height = 63.35 m
+UV Index = 0.16
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:41  
+  
+INVALID 
+ 
+Shield Temperature = 37.67 C
+RTC Temperature = 35.50 C
+Outer Temperature = 64 C
+  
+Average Temperature = 45.72C
+Status: 60+
+ 
+Humidity    = 43.90 %
+Pressure    = 100.46 kPa
+Illuminance = 629.68 lx
+Height = 63.44 m
+UV Index = 0.19
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:43  
+  
+INVALID 
+ 
+Shield Temperature = 37.69 C
+RTC Temperature = 35.50 C
+Outer Temperature = 65 C
+  
+Average Temperature = 46.06C
+Status: 60+
+ 
+Humidity    = 43.74 %
+Pressure    = 100.46 kPa
+Illuminance = 638.06 lx
+Height = 63.39 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:45  
+  
+INVALID 
+ 
+Shield Temperature = 37.74 C
+RTC Temperature = 35.50 C
+Outer Temperature = 52 C
+  
+Average Temperature = 41.75C
+Status: 50+
+ 
+Humidity    = 44.26 %
+Pressure    = 100.47 kPa
+Illuminance = 422.58 lx
+Height = 63.20 m
+UV Index = 0.32
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:47  
+  
+INVALID 
+ 
+Shield Temperature = 37.76 C
+RTC Temperature = 35.50 C
+Outer Temperature = 67 C
+  
+Average Temperature = 46.75C
+Status: 60+
+ 
+Humidity    = 43.44 %
+Pressure    = 100.47 kPa
+Illuminance = 634.19 lx
+Height = 63.21 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:49  
+  
+INVALID 
+ 
+Shield Temperature = 37.78 C
+RTC Temperature = 35.50 C
+Outer Temperature = 65 C
+  
+Average Temperature = 46.09C
+Status: 60+
+ 
+Humidity    = 43.35 %
+Pressure    = 100.46 kPa
+Illuminance = 638.06 lx
+Height = 63.60 m
+UV Index = 0.55
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:51  
+  
+INVALID 
+ 
+Shield Temperature = 37.76 C
+RTC Temperature = 35.50 C
+Outer Temperature = 65 C
+  
+Average Temperature = 46.09C
+Status: 60+
+ 
+Humidity    = 43.36 %
+Pressure    = 100.46 kPa
+Illuminance = 635.48 lx
+Height = 63.48 m
+UV Index = 0.55
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:53  
+  
+INVALID 
+ 
+Shield Temperature = 37.78 C
+RTC Temperature = 35.50 C
+Outer Temperature = 67 C
+  
+Average Temperature = 46.76C
+Status: 60+
+ 
+Humidity    = 43.38 %
+Pressure    = 100.46 kPa
+Illuminance = 638.06 lx
+Height = 63.55 m
+UV Index = 0.48
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:55  
+  
+INVALID 
+ 
+Shield Temperature = 37.81 C
+RTC Temperature = 35.50 C
+Outer Temperature = 64 C
+  
+Average Temperature = 45.77C
+Status: 60+
+ 
+Humidity    = 43.20 %
+Pressure    = 100.46 kPa
+Illuminance = 639.35 lx
+Height = 63.70 m
+UV Index = 0.55
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:57  
+  
+INVALID 
+ 
+Shield Temperature = 37.87 C
+RTC Temperature = 35.50 C
+Outer Temperature = 68 C
+  
+Average Temperature = 47.12C
+Status: 60+
+ 
+Humidity    = 43.62 %
+Pressure    = 100.46 kPa
+Illuminance = 634.84 lx
+Height = 63.54 m
+UV Index = 0.58
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:0:59  
+  
+INVALID 
+ 
+Shield Temperature = 37.83 C
+RTC Temperature = 35.50 C
+Outer Temperature = 57 C
+  
+Average Temperature = 43.44C
+Status: 50+
+ 
+Humidity    = 43.41 %
+Pressure    = 100.46 kPa
+Illuminance = 638.71 lx
+Height = 63.51 m
+UV Index = 0.52
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:1:2  
+  
+INVALID 
+ 
+Shield Temperature = 37.85 C
+RTC Temperature = 35.50 C
+Outer Temperature = 66 C
+  
+Average Temperature = 46.45C
+Status: 60+
+ 
+Humidity    = 43.34 %
+Pressure    = 100.46 kPa
+Illuminance = 638.71 lx
+Height = 63.71 m
+UV Index = 0.58
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:1:4  
+  
+INVALID 
+ 
+Shield Temperature = 37.87 C
+RTC Temperature = 35.50 C
+Outer Temperature = 71 C
+  
+Average Temperature = 48.12C
+Status: 70+
+ 
+Humidity    = 43.48 %
+Pressure    = 100.46 kPa
+Illuminance = 638.71 lx
+Height = 63.39 m
+UV Index = 0.55
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:1:6  
+  
+INVALID 
+ 
+Shield Temperature = 37.87 C
+RTC Temperature = 35.50 C
+Outer Temperature = 74 C
+  
+Average Temperature = 49.12C
+Status: 70+
+ 
+Humidity    = 43.35 %
+Pressure    = 100.46 kPa
+Illuminance = 638.71 lx
+Height = 63.53 m
+UV Index = 0.58
+  
+///////////////////////////////
+  
+2021/9/10 (Friday) 16:1:8  
+  
+INVALID 
+ 
+Shield Temperature = 37.89 C
+RTC Temperature = 35.50 C
+Outer Temperature = 83 C
+  
+Average Temperature = 52.13C
+Status: 80+
+ 
+Humidity    = 43.30 %
+Pressure    = 100.46 kPa
+Illuminance = 638.06 lx
+Height = 63.31 m
+UV Index = 0.58
